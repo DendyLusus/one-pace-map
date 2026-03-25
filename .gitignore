@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+op-map
+op-map-macos
+op-map-linux
+op-map.exe

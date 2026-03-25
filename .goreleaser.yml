@@ -1,0 +1,39 @@
+version: 2
+
+builds:
+  - id: linux
+    binary: op-map
+    goos: [linux]
+    goarch: [amd64]
+
+  - id: darwin-amd64
+    binary: op-map
+    goos: [darwin]
+    goarch: [amd64]
+
+  - id: darwin-arm64
+    binary: op-map
+    goos: [darwin]
+    goarch: [arm64]
+
+  - id: windows
+    binary: op-map
+    goos: [windows]
+    goarch: [amd64]
+
+universal_binaries:
+  - id: darwin-universal
+    ids: [darwin-amd64, darwin-arm64]
+    name_template: op-map
+    replace: true
+
+archives:
+  - formats: [binary]
+    name_template: >-
+      op-map-
+      {{- if eq .Os "darwin"}}macos
+      {{- else if eq .Os "windows"}}windows
+      {{- else}}{{ .Os }}{{ end }}
+
+release:
+  draft: false

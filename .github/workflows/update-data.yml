@@ -1,0 +1,33 @@
+name: Update pre-parsed data
+on:
+  schedule:
+    - cron: '23 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-go@v6
+        with:
+          go-version-file: go.mod
+      - run: go build -o op-map .
+      - run: mkdir -p data
+      - run: |
+          ./op-map --json > data/arcs.json
+          ./op-map --resolve --json > data/episodes.json
+          ./op-map --dub ja --json > data/arcs-ja.json
+          ./op-map --resolve --dub ja --json > data/episodes-ja.json
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || (
+            git commit -m "Update pre-parsed data"
+            git push
+          )
