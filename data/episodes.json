@@ -358,11 +358,11 @@
     "slug": "reverse-mountain",
     "title": "Reverse Mountain",
     "special": false,
-    "playlist_id": "gNP9sMRN",
+    "playlist_id": "ntwqiVfX",
     "resolution": 1080,
     "sub": "",
     "dub": "en",
-    "variant": "",
+    "variant": "extended",
     "episodes": [
       {
         "episode_num": 1,
@@ -373,10 +373,10 @@
       },
       {
         "episode_num": 2,
-        "file_id": "zTdXUWiU",
-        "file_name": "[One Pace][103-105] Reverse Mountain 02 [720p][En Dub][BFCCE786].mp4",
-        "size": 212728419,
-        "url": "https://pixeldrain.net/api/file/zTdXUWiU?download"
+        "file_id": "SmXTaVhC",
+        "file_name": "[One Pace][103-105] Reverse Mountain 02 Extended [1080p][En Dub][EE8905F4].mp4",
+        "size": 483671184,
+        "url": "https://pixeldrain.net/api/file/SmXTaVhC?download"
       }
     ]
   },
@@ -1235,10 +1235,10 @@
       },
       {
         "episode_num": 9,
-        "file_id": "SwYtdpcW",
-        "file_name": "[One Pace][394-396] Enies Lobby 09 [720p][En Sub][6087E691].mp4",
-        "size": 281304021,
-        "url": "https://pixeldrain.net/api/file/SwYtdpcW?download"
+        "file_id": "ZYnq1EhS",
+        "file_name": "[One Pace][394-396] Enies Lobby 09 [1080p][En Dub][6CD7D650].mp4",
+        "size": 572473243,
+        "url": "https://pixeldrain.net/api/file/ZYnq1EhS?download"
       },
       {
         "episode_num": 10,
