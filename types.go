@@ -8,7 +8,7 @@ type Arc struct {
 	Special     bool        `json:"special"`
 	Chapters    string      `json:"chapters"`
 	Episodes    string      `json:"episodes"`
-	PlayGroups  []PlayGroup `json:"playGroups"`
+	PlayGroups  []PlayGroup `json:"playlistGroups"`
 }
 
 // PlayGroup is a set of resolution-keyed playlists sharing the same language/variant.

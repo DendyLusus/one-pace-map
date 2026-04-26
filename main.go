@@ -117,6 +117,10 @@ func main() {
 		}
 	}
 
+	if len(results) == 0 {
+		log.Fatalf("No arcs matched — site structure may have changed")
+	}
+
 	if *jsonOut {
 		enc := json.NewEncoder(os.Stdout)
 		enc.SetIndent("", "  ")
