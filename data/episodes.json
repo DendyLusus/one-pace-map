@@ -1,1 +1,3748 @@
-[]
+[
+  {
+    "slug": "romance-dawn",
+    "title": "Romance Dawn",
+    "special": false,
+    "playlist_id": "xe5AJy9v",
+    "resolution": 1080,
+    "sub": "en",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "tPwJ6fox",
+        "file_name": "[One Pace][1] Romance Dawn 01 [1080p][En CC][1066673D].mp4",
+        "size": 287125343,
+        "url": "https://pixeldrain.net/api/file/tPwJ6fox?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "5ckmceP2",
+        "file_name": "[One Pace][2] Romance Dawn 02 [1080p][En CC][C7B2A1EA].mp4",
+        "size": 320215746,
+        "url": "https://pixeldrain.net/api/file/5ckmceP2?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "xkbpqvxG",
+        "file_name": "[One Pace][3-5] Romance Dawn 03 [1080p][En CC][52CE5B5E].mp4",
+        "size": 384597230,
+        "url": "https://pixeldrain.net/api/file/xkbpqvxG?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "7wzTXWLA",
+        "file_name": "[One Pace][5-7] Romance Dawn 04 [1080p][En CC][0F2BE5CC].mp4",
+        "size": 267156636,
+        "url": "https://pixeldrain.net/api/file/7wzTXWLA?download"
+      }
+    ]
+  },
+  {
+    "slug": "orange-town",
+    "title": "Orange Town",
+    "special": false,
+    "playlist_id": "bViNuyND",
+    "resolution": 1080,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "JDQK46kE",
+        "file_name": "[One Pace][8-11] Orange Town 01 [1080p][En Dub][1BF4704B].mp4",
+        "size": 410779401,
+        "url": "https://pixeldrain.net/api/file/JDQK46kE?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "shmXMyVW",
+        "file_name": "[One Pace][12-19] Orange Town 02 [1080p][En Dub][762174F9].mp4",
+        "size": 548135982,
+        "url": "https://pixeldrain.net/api/file/shmXMyVW?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "pEFxJLP2",
+        "file_name": "[One Pace][19-21] Orange Town 03 [1080p][En Dub][CECDEF22].mp4",
+        "size": 343748132,
+        "url": "https://pixeldrain.net/api/file/pEFxJLP2?download"
+      }
+    ]
+  },
+  {
+    "slug": "syrup-village",
+    "title": "Syrup Village",
+    "special": false,
+    "playlist_id": "rwKsdYhv",
+    "resolution": 1080,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "yFWobsW8",
+        "file_name": "[One Pace][23-25] Syrup Village 01 [1080p][En Dub][B12ECD15].mp4",
+        "size": 378751751,
+        "url": "https://pixeldrain.net/api/file/yFWobsW8?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "L84qW8wd",
+        "file_name": "[One Pace][26-27] Syrup Village 02 [1080p][En Dub][65CFD232].mp4",
+        "size": 300449572,
+        "url": "https://pixeldrain.net/api/file/L84qW8wd?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "qfVwDGu4",
+        "file_name": "[One Pace][28-30] Syrup Village 03 [1080p][En Dub][DBDB72BF].mp4",
+        "size": 392924253,
+        "url": "https://pixeldrain.net/api/file/qfVwDGu4?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "2wmHmUPQ",
+        "file_name": "[One Pace][31-34] Syrup Village 04 [1080p][En Dub][CA6374CD].mp4",
+        "size": 422470314,
+        "url": "https://pixeldrain.net/api/file/2wmHmUPQ?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "upTQhf97",
+        "file_name": "[One Pace][35-37] Syrup Village 05 [1080p][En Dub][7045845C].mp4",
+        "size": 345720684,
+        "url": "https://pixeldrain.net/api/file/upTQhf97?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "EfgzQNR6",
+        "file_name": "[One Pace][38-39] Syrup Village 06 [1080p][En Dub][1326AB9B].mp4",
+        "size": 283463072,
+        "url": "https://pixeldrain.net/api/file/EfgzQNR6?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "bDD9DbKZ",
+        "file_name": "[One Pace][40-41] Syrup Village 07 [1080p][En Dub][BBB7F841].mp4",
+        "size": 281131070,
+        "url": "https://pixeldrain.net/api/file/bDD9DbKZ?download"
+      }
+    ]
+  },
+  {
+    "slug": "gaimon",
+    "title": "Gaimon",
+    "special": false,
+    "playlist_id": "UqmPsUCF",
+    "resolution": 1080,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "9oCeFp7K",
+        "file_name": "[One Pace][42,22] Gaimon 01 [1080p][En Dub][BB0BBC61].mp4",
+        "size": 322480574,
+        "url": "https://pixeldrain.net/api/file/9oCeFp7K?download"
+      }
+    ]
+  },
+  {
+    "slug": "baratie",
+    "title": "Baratie",
+    "special": false,
+    "playlist_id": "tJVhNxyK",
+    "resolution": 1080,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "N5FMXwW8",
+        "file_name": "[One Pace][42-44] Baratie 01 [1080p][En Dub][93E14A7C].mp4",
+        "size": 410578032,
+        "url": "https://pixeldrain.net/api/file/N5FMXwW8?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "EdV1jtH3",
+        "file_name": "[One Pace][45-47] Baratie 02 [1080p][En Dub][2B1DE46B].mp4",
+        "size": 416929758,
+        "url": "https://pixeldrain.net/api/file/EdV1jtH3?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "qJXtuVJn",
+        "file_name": "[One Pace][48-52] Baratie 03 [1080p][En Dub][174DB6B9].mp4",
+        "size": 512411149,
+        "url": "https://pixeldrain.net/api/file/qJXtuVJn?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "re43B2v4",
+        "file_name": "[One Pace][53-55] Baratie 04 [1080p][En Dub][9851B10F].mp4",
+        "size": 351888966,
+        "url": "https://pixeldrain.net/api/file/re43B2v4?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "WLgeo1bC",
+        "file_name": "[One Pace][56-59] Baratie 05 [1080p][En Dub][DB412E68].mp4",
+        "size": 443279345,
+        "url": "https://pixeldrain.net/api/file/WLgeo1bC?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "indDS32k",
+        "file_name": "[One Pace][59-63] Baratie 06 [1080p][En Dub][533D5395].mp4",
+        "size": 448155003,
+        "url": "https://pixeldrain.net/api/file/indDS32k?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "z3YAQVtf",
+        "file_name": "[One Pace][63-67] Baratie 07 [1080p][En Dub][F8A99A25].mp4",
+        "size": 516421981,
+        "url": "https://pixeldrain.net/api/file/z3YAQVtf?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "Q4U7uDTr",
+        "file_name": "[One Pace][67-68] Baratie 08 [1080p][En Dub][656CA260].mp4",
+        "size": 268775338,
+        "url": "https://pixeldrain.net/api/file/Q4U7uDTr?download"
+      }
+    ]
+  },
+  {
+    "slug": "arlong-park",
+    "title": "Arlong Park",
+    "special": false,
+    "playlist_id": "DWg4P7E9",
+    "resolution": 1080,
+    "sub": "",
+    "dub": "en",
+    "variant": "extended",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "8812v7R5",
+        "file_name": "[One Pace][69-71] Arlong Park 01 [1080p][En Dub][4D9A1C0A].mp4",
+        "size": 412754385,
+        "url": "https://pixeldrain.net/api/file/8812v7R5?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "ueuiiiX7",
+        "file_name": "[One Pace][72-74] Arlong Park 02 [1080p][En Dub][DAA2535E].mp4",
+        "size": 328255574,
+        "url": "https://pixeldrain.net/api/file/ueuiiiX7?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "wNoZeXqL",
+        "file_name": "[One Pace][74-76] Arlong Park 03 [1080p][En Dub][21A13085].mp4",
+        "size": 345928565,
+        "url": "https://pixeldrain.net/api/file/wNoZeXqL?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "v8rEaR8x",
+        "file_name": "[One Pace][77-78] Arlong Park 04 [1080p][En Dub][0E146652].mp4",
+        "size": 350855621,
+        "url": "https://pixeldrain.net/api/file/v8rEaR8x?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "JsAdkRF1",
+        "file_name": "[One Pace][79-81] Arlong Park 05 Extended [1080p][En Dub][0326DF53].mp4",
+        "size": 424602172,
+        "url": "https://pixeldrain.net/api/file/JsAdkRF1?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "mtdNWJqa",
+        "file_name": "[One Pace][82-84] Arlong Park 06 [1080p][En Dub][88F54AFD].mp4",
+        "size": 357801273,
+        "url": "https://pixeldrain.net/api/file/mtdNWJqa?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "3kyoaxix",
+        "file_name": "[One Pace][85-88] Arlong Park 07 [1080p][En Dub][FD683488].mp4",
+        "size": 406183866,
+        "url": "https://pixeldrain.net/api/file/3kyoaxix?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "b6vgdkmN",
+        "file_name": "[One Pace][88-91] Arlong Park 08 [1080p][En Dub][D741DCD0].mp4",
+        "size": 421216232,
+        "url": "https://pixeldrain.net/api/file/b6vgdkmN?download"
+      },
+      {
+        "episode_num": 9,
+        "file_id": "AMHE2rVh",
+        "file_name": "[One Pace][91-94] Arlong Park 09 [1080p][En Dub][8B199F7C].mp4",
+        "size": 330090258,
+        "url": "https://pixeldrain.net/api/file/AMHE2rVh?download"
+      },
+      {
+        "episode_num": 10,
+        "file_id": "51rHgm8U",
+        "file_name": "[One Pace][94-95] Arlong Park 10 Extended [1080p][En Dub][A5A7EDD4].mp4",
+        "size": 327135840,
+        "url": "https://pixeldrain.net/api/file/51rHgm8U?download"
+      }
+    ]
+  },
+  {
+    "slug": "the-adventures-of-buggys-crew",
+    "title": "The Adventures of Buggy's Crew",
+    "special": false,
+    "playlist_id": "6oukgUQp",
+    "resolution": 1080,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "pveeC3q2",
+        "file_name": "[One Pace][35-75 cover stories] The Adventures of Buggy's Crew 01 [1080p][En Dub][0DB479F8].mp4",
+        "size": 374529742,
+        "url": "https://pixeldrain.net/api/file/pveeC3q2?download"
+      }
+    ]
+  },
+  {
+    "slug": "loguetown",
+    "title": "Loguetown",
+    "special": false,
+    "playlist_id": "6PXc5Fwt",
+    "resolution": 480,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "ynrZgtjc",
+        "file_name": "[One Pace][96-97] Loguetown 01 [480p][En Dub][AC72FCBA].mp4",
+        "size": 153876611,
+        "url": "https://pixeldrain.net/api/file/ynrZgtjc?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "jtKUxxYK",
+        "file_name": "[One Pace][97] Loguetown 02 [480p][En Dub][B82FD4E5].mp4",
+        "size": 163855151,
+        "url": "https://pixeldrain.net/api/file/jtKUxxYK?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "XQcwP57E",
+        "file_name": "[One Pace][98-100] Loguetown 03 [480p][En Dub][7C04925F].mp4",
+        "size": 305186718,
+        "url": "https://pixeldrain.net/api/file/XQcwP57E?download"
+      }
+    ]
+  },
+  {
+    "slug": "reverse-mountain",
+    "title": "Reverse Mountain",
+    "special": false,
+    "playlist_id": "ntwqiVfX",
+    "resolution": 1080,
+    "sub": "",
+    "dub": "en",
+    "variant": "extended",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "6cLAfAAS",
+        "file_name": "[One Pace][101-102] Reverse Mountain 01 [1080p][En Dub][09B484A1].mp4",
+        "size": 419090754,
+        "url": "https://pixeldrain.net/api/file/6cLAfAAS?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "SmXTaVhC",
+        "file_name": "[One Pace][103-105] Reverse Mountain 02 Extended [1080p][En Dub][EE8905F4].mp4",
+        "size": 483671184,
+        "url": "https://pixeldrain.net/api/file/SmXTaVhC?download"
+      }
+    ]
+  },
+  {
+    "slug": "whisky-peak",
+    "title": "Whisky Peak",
+    "special": false,
+    "playlist_id": "5d4WRz1y",
+    "resolution": 480,
+    "sub": "en",
+    "dub": "ja",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "4BY356S5",
+        "file_name": "[One Pace][106-109] Whisky Peak 01 [480p][En Sub][BE7349ED].mp4",
+        "size": 129845881,
+        "url": "https://pixeldrain.net/api/file/4BY356S5?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "HQWrBKsp",
+        "file_name": "[One Pace][110-114] Whisky Peak 02 [480p][En Sub][035E5621].mp4",
+        "size": 159318243,
+        "url": "https://pixeldrain.net/api/file/HQWrBKsp?download"
+      }
+    ]
+  },
+  {
+    "slug": "the-trials-of-koby-meppo",
+    "title": "The Trials of Koby-Meppo",
+    "special": false,
+    "playlist_id": "HfHjHtvU",
+    "resolution": 720,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "QP3ymoRC",
+        "file_name": "[One Pace][83-119 cover stories] The Trials of Koby-Meppo 01 [720p][En Dub][7F73EA3A].mp4",
+        "size": 184010212,
+        "url": "https://pixeldrain.net/api/file/QP3ymoRC?download"
+      }
+    ]
+  },
+  {
+    "slug": "little-garden",
+    "title": "Little Garden",
+    "special": false,
+    "playlist_id": "dokMzV7s",
+    "resolution": 1080,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "hEEAFYxN",
+        "file_name": "[One Pace][115-117] Little Garden 01 [1080p][En Dub][2F5A3DB6].mp4",
+        "size": 444055876,
+        "url": "https://pixeldrain.net/api/file/hEEAFYxN?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "Jnsfu1Vg",
+        "file_name": "[One Pace][117-119] Little Garden 02 [1080p][En Dub][42107467].mp4",
+        "size": 397330000,
+        "url": "https://pixeldrain.net/api/file/Jnsfu1Vg?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "jFnqjgpz",
+        "file_name": "[One Pace][119-122] Little Garden 03 [1080p][En Dub][9CDC491C].mp4",
+        "size": 439469366,
+        "url": "https://pixeldrain.net/api/file/jFnqjgpz?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "9mgem6UB",
+        "file_name": "[One Pace][123-126] Little Garden 04 [1080p][En Dub][A9ED2039].mp4",
+        "size": 621782243,
+        "url": "https://pixeldrain.net/api/file/9mgem6UB?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "Wx88ZVAs",
+        "file_name": "[One Pace][127-129] Little Garden 05 [1080p][En Dub][A2DFCDF6].mp4",
+        "size": 406041114,
+        "url": "https://pixeldrain.net/api/file/Wx88ZVAs?download"
+      }
+    ]
+  },
+  {
+    "slug": "drum-island",
+    "title": "Drum Island",
+    "special": false,
+    "playlist_id": "uHcgEuGE",
+    "resolution": 720,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "XbLxzsXZ",
+        "file_name": "[One Pace][129-132] Drum Island 01 [720p][En Dub][6AF574BD].mp4",
+        "size": 321157679,
+        "url": "https://pixeldrain.net/api/file/XbLxzsXZ?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "AMPhehwa",
+        "file_name": "[One Pace][132-135] Drum Island 02 [720p][En Dub][60B7F39C].mp4",
+        "size": 483503086,
+        "url": "https://pixeldrain.net/api/file/AMPhehwa?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "4y3661mf",
+        "file_name": "[One Pace][136-139] Drum Island 03 [720p][En Dub][CF147721].mp4",
+        "size": 543781389,
+        "url": "https://pixeldrain.net/api/file/4y3661mf?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "mRE6wDFG",
+        "file_name": "[One Pace][139-140] Drum Island 04 [720p][En Dub][706097B6].mp4",
+        "size": 255571256,
+        "url": "https://pixeldrain.net/api/file/mRE6wDFG?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "FxsP8DHQ",
+        "file_name": "[One Pace][141-145] Drum Island 05 [720p][En Dub][70281755].mp4",
+        "size": 491247713,
+        "url": "https://pixeldrain.net/api/file/FxsP8DHQ?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "puaTeQnK",
+        "file_name": "[One Pace][140-141, 145-148] Drum Island 06 [720p][En Dub][A88904FD].mp4",
+        "size": 302919732,
+        "url": "https://pixeldrain.net/api/file/puaTeQnK?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "s9nyFDaz",
+        "file_name": "[One Pace][149-152] Drum Island 07 [720p][En Dub][716D0258].mp4",
+        "size": 437260579,
+        "url": "https://pixeldrain.net/api/file/s9nyFDaz?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "epAVqBQN",
+        "file_name": "[One Pace][142, 153-155] Drum Island 08 [720p][En Dub][0057F5F9].mp4",
+        "size": 417636080,
+        "url": "https://pixeldrain.net/api/file/epAVqBQN?download"
+      }
+    ]
+  },
+  {
+    "slug": "alabasta",
+    "title": "Alabasta",
+    "special": false,
+    "playlist_id": "eyh7yEiv",
+    "resolution": 1080,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "NEquW7Gq",
+        "file_name": "[One Pace][155-157] Alabasta 01 [720p][En Dub][E4975542].mp4",
+        "size": 251503909,
+        "url": "https://pixeldrain.net/api/file/NEquW7Gq?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "m4RNzjoq",
+        "file_name": "[One Pace][157-159] Alabasta 02 [720p][En Dub][FF686A63].mp4",
+        "size": 333896497,
+        "url": "https://pixeldrain.net/api/file/m4RNzjoq?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "xykkFdEE",
+        "file_name": "[One Pace][159, 161-162] Alabasta 03 [720p][En Dub][FD8C21BA].mp4",
+        "size": 294608907,
+        "url": "https://pixeldrain.net/api/file/xykkFdEE?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "Y8VLpaUJ",
+        "file_name": "[One Pace][159-164] Alabasta 04 [720p][En Dub][11BDCA64].mp4",
+        "size": 174012431,
+        "url": "https://pixeldrain.net/api/file/Y8VLpaUJ?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "R5fkDERZ",
+        "file_name": "[One Pace][164-166] Alabasta 05 [720p][En Dub][4D124940].mp4",
+        "size": 346079056,
+        "url": "https://pixeldrain.net/api/file/R5fkDERZ?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "udewLhJs",
+        "file_name": "[One Pace][167-168] Alabasta 06 [720p][En Dub][FD9D0D19].mp4",
+        "size": 265174080,
+        "url": "https://pixeldrain.net/api/file/udewLhJs?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "6SK3vVjf",
+        "file_name": "[One Pace][169-170] Alabasta 07 [720p][En Dub][6521E27F].mp4",
+        "size": 208179813,
+        "url": "https://pixeldrain.net/api/file/6SK3vVjf?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "ppR4WQzw",
+        "file_name": "[One Pace][171-174] Alabasta 08 [720p][En Dub][B7DED298].mp4",
+        "size": 402009720,
+        "url": "https://pixeldrain.net/api/file/ppR4WQzw?download"
+      },
+      {
+        "episode_num": 9,
+        "file_id": "9NTLMZVZ",
+        "file_name": "[One Pace][175-178] Alabasta 09 [720p][En Dub][2E312AE6].mp4",
+        "size": 431828825,
+        "url": "https://pixeldrain.net/api/file/9NTLMZVZ?download"
+      },
+      {
+        "episode_num": 10,
+        "file_id": "2wqCqmgE",
+        "file_name": "[One Pace][179-182] Alabasta 10 [720p][En Dub][F60AC2B6].mp4",
+        "size": 445044982,
+        "url": "https://pixeldrain.net/api/file/2wqCqmgE?download"
+      },
+      {
+        "episode_num": 11,
+        "file_id": "nQ857fcs",
+        "file_name": "[One Pace][183-186] Alabasta 11 [720p][En Dub][74486B41].mp4",
+        "size": 452836092,
+        "url": "https://pixeldrain.net/api/file/nQ857fcs?download"
+      },
+      {
+        "episode_num": 12,
+        "file_id": "d6uxE3UY",
+        "file_name": "[One Pace][187-189] Alabasta 12 [720p][En Dub][650397E5].mp4",
+        "size": 351199302,
+        "url": "https://pixeldrain.net/api/file/d6uxE3UY?download"
+      },
+      {
+        "episode_num": 13,
+        "file_id": "Li7KHttq",
+        "file_name": "[One Pace][181, 189-192] Alabasta 13 [720p][En Dub][C7BC4502].mp4",
+        "size": 277090185,
+        "url": "https://pixeldrain.net/api/file/Li7KHttq?download"
+      },
+      {
+        "episode_num": 14,
+        "file_id": "1sUfHKkv",
+        "file_name": "[One Pace][192-195] Alabasta 14 [720p][En Dub][F93C4810].mp4",
+        "size": 407701919,
+        "url": "https://pixeldrain.net/api/file/1sUfHKkv?download"
+      },
+      {
+        "episode_num": 15,
+        "file_id": "XUT66vZY",
+        "file_name": "[One Pace][196-198] Alabasta 15 [720p][En Dub][8DA5BB51].mp4",
+        "size": 337042191,
+        "url": "https://pixeldrain.net/api/file/XUT66vZY?download"
+      },
+      {
+        "episode_num": 16,
+        "file_id": "QJTiqNJE",
+        "file_name": "[One Pace][199-201] Alabasta 16 [720p][En Dub][ED460EFA].mp4",
+        "size": 194865733,
+        "url": "https://pixeldrain.net/api/file/QJTiqNJE?download"
+      },
+      {
+        "episode_num": 17,
+        "file_id": "BK4L6sMq",
+        "file_name": "[One Pace][202-205] Alabasta 17 [1080p][En Dub][A8019AD3].mp4",
+        "size": 435966311,
+        "url": "https://pixeldrain.net/api/file/BK4L6sMq?download"
+      },
+      {
+        "episode_num": 18,
+        "file_id": "xLj3TEmy",
+        "file_name": "[One Pace][206-210] Alabasta 18 [1080p][En Dub][BA682F0F].mp4",
+        "size": 486704111,
+        "url": "https://pixeldrain.net/api/file/xLj3TEmy?download"
+      },
+      {
+        "episode_num": 19,
+        "file_id": "ChgMZmmV",
+        "file_name": "[One Pace][211-213] Alabasta 19 [1080p][En Dub][049F4F5E].mp4",
+        "size": 435753085,
+        "url": "https://pixeldrain.net/api/file/ChgMZmmV?download"
+      },
+      {
+        "episode_num": 20,
+        "file_id": "He8k5gbQ",
+        "file_name": "[One Pace][214-216] Alabasta 20 [1080p][En Dub][FCC5768F].mp4",
+        "size": 443386204,
+        "url": "https://pixeldrain.net/api/file/He8k5gbQ?download"
+      },
+      {
+        "episode_num": 21,
+        "file_id": "14QzU6Fp",
+        "file_name": "[One Pace][217-218] Alabasta 21 [1080p][En Dub][E2533E13].mp4",
+        "size": 199598185,
+        "url": "https://pixeldrain.net/api/file/14QzU6Fp?download"
+      }
+    ]
+  },
+  {
+    "slug": "jaya",
+    "title": "Jaya",
+    "special": false,
+    "playlist_id": "KkaKPKG5",
+    "resolution": 720,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "2Krg4dfd",
+        "file_name": "[One Pace][218-220] Jaya 01 [720p][En Dub][1613F086].mp4",
+        "size": 227132042,
+        "url": "https://pixeldrain.net/api/file/2Krg4dfd?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "EqzZoiFz",
+        "file_name": "[One Pace][221-224] Jaya 02 [720p][En Dub][3952C4A2].mp4",
+        "size": 330710905,
+        "url": "https://pixeldrain.net/api/file/EqzZoiFz?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "EbgsBq7Z",
+        "file_name": "[One Pace][225-226] Jaya 03 [720p][En Dub][C26F7AFB].mp4",
+        "size": 222714600,
+        "url": "https://pixeldrain.net/api/file/EbgsBq7Z?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "HF49HPCr",
+        "file_name": "[One Pace][227-228] Jaya 04 [720p][En Dub][FA54C04C].mp4",
+        "size": 238115788,
+        "url": "https://pixeldrain.net/api/file/HF49HPCr?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "RnfD6quC",
+        "file_name": "[One Pace][229-230] Jaya 05 [720p][En Dub][9CAB2B91].mp4",
+        "size": 237294210,
+        "url": "https://pixeldrain.net/api/file/RnfD6quC?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "BLpTFaVY",
+        "file_name": "[One Pace][231-232] Jaya 06 [720p][En Dub][4BC6098B].mp4",
+        "size": 197392959,
+        "url": "https://pixeldrain.net/api/file/BLpTFaVY?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "ZyTBgiQF",
+        "file_name": "[One Pace][232-234] Jaya 07 [720p][En Dub][7FAED515].mp4",
+        "size": 264329800,
+        "url": "https://pixeldrain.net/api/file/ZyTBgiQF?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "kmguCv5A",
+        "file_name": "[One Pace][235-236] Jaya 08 [720p][En Dub][73E29CBF].mp4",
+        "size": 164973278,
+        "url": "https://pixeldrain.net/api/file/kmguCv5A?download"
+      }
+    ]
+  },
+  {
+    "slug": "skypiea",
+    "title": "Skypiea",
+    "special": false,
+    "playlist_id": "27rF4SrD",
+    "resolution": 1080,
+    "sub": "",
+    "dub": "en",
+    "variant": "alternate",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "soXwdpwb",
+        "file_name": "[One Pace][237-238] Skypiea 01 [720p][En Dub][5B9B150E].mp4",
+        "size": 217493310,
+        "url": "https://pixeldrain.net/api/file/soXwdpwb?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "uuj2BfsS",
+        "file_name": "[One Pace][239-240] Skypiea 02 [720p][En Dub][39EC2E94].mp4",
+        "size": 206599820,
+        "url": "https://pixeldrain.net/api/file/uuj2BfsS?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "parfoz62",
+        "file_name": "[One Pace][241-242] Skypiea 03 [720p][En Dub][AE5A584E].mp4",
+        "size": 297450826,
+        "url": "https://pixeldrain.net/api/file/parfoz62?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "VzYEhnTK",
+        "file_name": "[One Pace][243-244] Skypiea 04 [720p][En Dub][229768A0].mp4",
+        "size": 311280786,
+        "url": "https://pixeldrain.net/api/file/VzYEhnTK?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "6oR6XcaL",
+        "file_name": "[One Pace][245-246] Skypiea 05 [720p][En Dub][BB16C788].mp4",
+        "size": 281269556,
+        "url": "https://pixeldrain.net/api/file/6oR6XcaL?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "yCDgporc",
+        "file_name": "[One Pace][247-249] Skypiea 06 [720p][En Dub][6DA8C6D7].mp4",
+        "size": 271098531,
+        "url": "https://pixeldrain.net/api/file/yCDgporc?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "ukt7dZUc",
+        "file_name": "[One Pace][250-251] Skypiea 07 [720p][En Dub][E88730FC].mp4",
+        "size": 162123533,
+        "url": "https://pixeldrain.net/api/file/ukt7dZUc?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "Rmc55gbG",
+        "file_name": "[One Pace][252-254] Skypiea 08 [720p][En Dub][57D9EACB].mp4",
+        "size": 246485044,
+        "url": "https://pixeldrain.net/api/file/Rmc55gbG?download"
+      },
+      {
+        "episode_num": 9,
+        "file_id": "SPReGwxk",
+        "file_name": "[One Pace][255-257] Skypiea 09 [720p][En Dub][D9A0A5CE].mp4",
+        "size": 235670150,
+        "url": "https://pixeldrain.net/api/file/SPReGwxk?download"
+      },
+      {
+        "episode_num": 10,
+        "file_id": "vy2YDDfj",
+        "file_name": "[One Pace][258-260] Skypiea 10 [720p][En Dub][40F7885D].mp4",
+        "size": 171104602,
+        "url": "https://pixeldrain.net/api/file/vy2YDDfj?download"
+      },
+      {
+        "episode_num": 11,
+        "file_id": "niLLwyrb",
+        "file_name": "[One Pace][261-263] Skypiea 11 [720p][En Dub][796E55F2].mp4",
+        "size": 244876744,
+        "url": "https://pixeldrain.net/api/file/niLLwyrb?download"
+      },
+      {
+        "episode_num": 12,
+        "file_id": "dywZntD7",
+        "file_name": "[One Pace][264-266, 268] Skypiea 12 [720p][En Dub][D344ABD8].mp4",
+        "size": 222019452,
+        "url": "https://pixeldrain.net/api/file/dywZntD7?download"
+      },
+      {
+        "episode_num": 13,
+        "file_id": "1Yx7UXsD",
+        "file_name": "[One Pace][266-269] Skypiea 13 [720p][En Dub][0EE7BA5D].mp4",
+        "size": 245364446,
+        "url": "https://pixeldrain.net/api/file/1Yx7UXsD?download"
+      },
+      {
+        "episode_num": 14,
+        "file_id": "ay3ydoQ5",
+        "file_name": "[One Pace][270-273] Skypiea 14 [1080p][En Dub][C9BCCF63].mp4",
+        "size": 380683677,
+        "url": "https://pixeldrain.net/api/file/ay3ydoQ5?download"
+      },
+      {
+        "episode_num": 15,
+        "file_id": "fW2fbcKt",
+        "file_name": "[One Pace][273-276] Skypiea 15 [1080p][En Dub][7AED662A].mp4",
+        "size": 421622915,
+        "url": "https://pixeldrain.net/api/file/fW2fbcKt?download"
+      },
+      {
+        "episode_num": 16,
+        "file_id": "fiiQKnpE",
+        "file_name": "[One Pace][277-279] Skypiea 16 [1080p][En Dub][1B501759].mp4",
+        "size": 306686234,
+        "url": "https://pixeldrain.net/api/file/fiiQKnpE?download"
+      },
+      {
+        "episode_num": 17,
+        "file_id": "YAXu4MtU",
+        "file_name": "[One Pace][280-283] Skypiea 17 [1080p][En Dub][A5C49C01].mp4",
+        "size": 485381609,
+        "url": "https://pixeldrain.net/api/file/YAXu4MtU?download"
+      },
+      {
+        "episode_num": 18,
+        "file_id": "Js6o2VyR",
+        "file_name": "[One Pace][283-286] Skypiea 18 [1080p][En Dub][E4E19326].mp4",
+        "size": 427894717,
+        "url": "https://pixeldrain.net/api/file/Js6o2VyR?download"
+      },
+      {
+        "episode_num": 19,
+        "file_id": "23bcWcD4",
+        "file_name": "[One Pace][286-289] Skypiea 19 [1080p][En Dub][DD0E5ABC].mp4",
+        "size": 347904356,
+        "url": "https://pixeldrain.net/api/file/23bcWcD4?download"
+      },
+      {
+        "episode_num": 20,
+        "file_id": "iWYoNUZx",
+        "file_name": "[One Pace][290-291] Skypiea 20 [1080p][En Dub][AAE50327].mp4",
+        "size": 260209025,
+        "url": "https://pixeldrain.net/api/file/iWYoNUZx?download"
+      },
+      {
+        "episode_num": 21,
+        "file_id": "ruCjAbn3",
+        "file_name": "[One Pace][292-295] Skypiea 21 [1080p][En Dub][16201986].mp4",
+        "size": 354450983,
+        "url": "https://pixeldrain.net/api/file/ruCjAbn3?download"
+      },
+      {
+        "episode_num": 22,
+        "file_id": "og9SH55n",
+        "file_name": "[One Pace][295-298] Skypiea 22 [1080p][En Dub][82F4854A].mp4",
+        "size": 441168655,
+        "url": "https://pixeldrain.net/api/file/og9SH55n?download"
+      },
+      {
+        "episode_num": 23,
+        "file_id": "9Krz3cBv",
+        "file_name": "[One Pace][299-300] Skypiea 23 [1080p][En Dub][BCADA5DA].mp4",
+        "size": 261770863,
+        "url": "https://pixeldrain.net/api/file/9Krz3cBv?download"
+      },
+      {
+        "episode_num": 24,
+        "file_id": "neC2WigV",
+        "file_name": "[One Pace][301] Skypiea 24 [1080p][En Dub][BA5FB363].mp4",
+        "size": 262744452,
+        "url": "https://pixeldrain.net/api/file/neC2WigV?download"
+      },
+      {
+        "episode_num": 0,
+        "file_id": "5esG8RRy",
+        "file_name": "[One Pace][302-303] Skypiea 25 Alternate (G-8) [1080p][En Dub][7A034B4A].mp4",
+        "size": 312126205,
+        "url": "https://pixeldrain.net/api/file/5esG8RRy?download"
+      }
+    ]
+  },
+  {
+    "slug": "long-ring-long-land",
+    "title": "Long Ring Long Land",
+    "special": false,
+    "playlist_id": "KDhJiGow",
+    "resolution": 1080,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 0,
+        "file_id": "EUsSh5FL",
+        "file_name": "[One Pace][303] Long Ring Long Land 00 [1080p][En Dub][9DF1490C].mp4",
+        "size": 25122416,
+        "url": "https://pixeldrain.net/api/file/EUsSh5FL?download"
+      },
+      {
+        "episode_num": 1,
+        "file_id": "RDgDA4U5",
+        "file_name": "[One Pace][304-306] Long Ring Long Land 01 [720p][En Dub][7FDB0335].mp4",
+        "size": 241455959,
+        "url": "https://pixeldrain.net/api/file/RDgDA4U5?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "PmHPiqo6",
+        "file_name": "[One Pace][307-309] Long Ring Long Land 02 [720p][En Dub][1B67203C].mp4",
+        "size": 331041856,
+        "url": "https://pixeldrain.net/api/file/PmHPiqo6?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "zKv9ZQhz",
+        "file_name": "[One Pace][310-312] Long Ring Long Land 03 [720p][En Dub][4853E959].mp4",
+        "size": 399562066,
+        "url": "https://pixeldrain.net/api/file/zKv9ZQhz?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "X4eLmEPJ",
+        "file_name": "[One Pace][313-316] Long Ring Long Land 04 [720p][En Dub][DB25749A].mp4",
+        "size": 311918927,
+        "url": "https://pixeldrain.net/api/file/X4eLmEPJ?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "9tjmvG9o",
+        "file_name": "[One Pace][317-318] Long Ring Long Land 05 [720p][En Dub][3C158A54].mp4",
+        "size": 201609187,
+        "url": "https://pixeldrain.net/api/file/9tjmvG9o?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "D7zfiErW",
+        "file_name": "[One Pace][318-321] Long Ring Long Land 06 [720p][En Dub][D1F3D7A5].mp4",
+        "size": 327903562,
+        "url": "https://pixeldrain.net/api/file/D7zfiErW?download"
+      }
+    ]
+  },
+  {
+    "slug": "water-seven",
+    "title": "Water Seven",
+    "special": false,
+    "playlist_id": "YASfiy9a",
+    "resolution": 720,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "eGQDZANW",
+        "file_name": "[One Pace][322-324] Water Seven 01 [720p][En Dub][96045FDD].mp4",
+        "size": 365205985,
+        "url": "https://pixeldrain.net/api/file/eGQDZANW?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "wHzLWiw6",
+        "file_name": "[One Pace][324-326] Water Seven 02 [720p][En Dub][AB1E5A2E].mp4",
+        "size": 382907917,
+        "url": "https://pixeldrain.net/api/file/wHzLWiw6?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "FnPrtP7c",
+        "file_name": "[One Pace][326-329] Water Seven 03 [720p][En Dub][D3D3323E].mp4",
+        "size": 517090818,
+        "url": "https://pixeldrain.net/api/file/FnPrtP7c?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "hmmXHvdu",
+        "file_name": "[One Pace][330-332] Water Seven 04 [720p][En Dub][AF0FDF84].mp4",
+        "size": 313574868,
+        "url": "https://pixeldrain.net/api/file/hmmXHvdu?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "GjhEW2pe",
+        "file_name": "[One Pace][332-333] Water Seven 05 [720p][En Dub][2BA4CE75].mp4",
+        "size": 301112703,
+        "url": "https://pixeldrain.net/api/file/GjhEW2pe?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "fPX2j1ry",
+        "file_name": "[One Pace][334-337] Water Seven 06 [720p][En Dub][7067E602].mp4",
+        "size": 478919034,
+        "url": "https://pixeldrain.net/api/file/fPX2j1ry?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "PBzTHWEk",
+        "file_name": "[One Pace][338-339] Water Seven 07 [720p][En Dub][793DC682].mp4",
+        "size": 341472161,
+        "url": "https://pixeldrain.net/api/file/PBzTHWEk?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "AKzMr78v",
+        "file_name": "[One Pace][340-342] Water Seven 08 [720p][En Dub][3E1CC2C9].mp4",
+        "size": 345836651,
+        "url": "https://pixeldrain.net/api/file/AKzMr78v?download"
+      },
+      {
+        "episode_num": 9,
+        "file_id": "gbXPUCpx",
+        "file_name": "[One Pace][342-345] Water Seven 09 [720p][En Dub][CB582D71].mp4",
+        "size": 453302311,
+        "url": "https://pixeldrain.net/api/file/gbXPUCpx?download"
+      },
+      {
+        "episode_num": 10,
+        "file_id": "Vs3xAJ6z",
+        "file_name": "[One Pace][346-348] Water Seven 10 [720p][En Dub][6478929A].mp4",
+        "size": 365967105,
+        "url": "https://pixeldrain.net/api/file/Vs3xAJ6z?download"
+      },
+      {
+        "episode_num": 11,
+        "file_id": "f1tmY7Fm",
+        "file_name": "[One Pace][349-352] Water Seven 11 [720p][En Dub][2D0F1B0B].mp4",
+        "size": 454756432,
+        "url": "https://pixeldrain.net/api/file/f1tmY7Fm?download"
+      },
+      {
+        "episode_num": 12,
+        "file_id": "Y8t2hAzE",
+        "file_name": "[One Pace][353-355] Water Seven 12 [720p][En Dub][49EC8DB4].mp4",
+        "size": 335572514,
+        "url": "https://pixeldrain.net/api/file/Y8t2hAzE?download"
+      },
+      {
+        "episode_num": 13,
+        "file_id": "zZEYsApN",
+        "file_name": "[One Pace][355-357] Water Seven 13 [720p][En Dub][09F56F9F].mp4",
+        "size": 386549773,
+        "url": "https://pixeldrain.net/api/file/zZEYsApN?download"
+      },
+      {
+        "episode_num": 14,
+        "file_id": "CcQxt3hn",
+        "file_name": "[One Pace][358-359] Water Seven 14 [720p][En Dub][7613D8A3].mp4",
+        "size": 176813567,
+        "url": "https://pixeldrain.net/api/file/CcQxt3hn?download"
+      },
+      {
+        "episode_num": 15,
+        "file_id": "RfUkXGYr",
+        "file_name": "[One Pace][360-362] Water Seven 15 [720p][En Dub][5398D10B].mp4",
+        "size": 266858350,
+        "url": "https://pixeldrain.net/api/file/RfUkXGYr?download"
+      },
+      {
+        "episode_num": 16,
+        "file_id": "YkMjb8mA",
+        "file_name": "[One Pace][363-365] Water Seven 16 [720p][En Dub][809322AC].mp4",
+        "size": 289867072,
+        "url": "https://pixeldrain.net/api/file/YkMjb8mA?download"
+      },
+      {
+        "episode_num": 17,
+        "file_id": "yewixrsn",
+        "file_name": "[One Pace][366-367] Water Seven 17 [720p][En Dub][DED35290].mp4",
+        "size": 330020091,
+        "url": "https://pixeldrain.net/api/file/yewixrsn?download"
+      },
+      {
+        "episode_num": 18,
+        "file_id": "s8hK9Kuz",
+        "file_name": "[One Pace][368-369] Water Seven 18 [720p][En Dub][F8FEBA62].mp4",
+        "size": 201381844,
+        "url": "https://pixeldrain.net/api/file/s8hK9Kuz?download"
+      },
+      {
+        "episode_num": 19,
+        "file_id": "ynepEJTs",
+        "file_name": "[One Pace][370-371] Water Seven 19 [720p][En Dub][02F0C7F8].mp4",
+        "size": 274500392,
+        "url": "https://pixeldrain.net/api/file/ynepEJTs?download"
+      },
+      {
+        "episode_num": 20,
+        "file_id": "TqE4U42u",
+        "file_name": "[One Pace][372-374] Water Seven 20 [720p][En Dub][166D1D59].mp4",
+        "size": 337460801,
+        "url": "https://pixeldrain.net/api/file/TqE4U42u?download"
+      }
+    ]
+  },
+  {
+    "slug": "enies-lobby",
+    "title": "Enies Lobby",
+    "special": false,
+    "playlist_id": "AaZZzDQ6",
+    "resolution": 1080,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "KZN8FK5R",
+        "file_name": "[One Pace][375-376] Enies Lobby 01 [1080p][En Dub][6D21766B].mp4",
+        "size": 476651952,
+        "url": "https://pixeldrain.net/api/file/KZN8FK5R?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "giMdxgZn",
+        "file_name": "[One Pace][376-378] Enies Lobby 02 [1080p][En Dub][A5F8540E].mp4",
+        "size": 440455006,
+        "url": "https://pixeldrain.net/api/file/giMdxgZn?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "TraD4ybC",
+        "file_name": "[One Pace][379-380] Enies Lobby 03 [1080p][En Dub][9D2BC7EE].mp4",
+        "size": 442398766,
+        "url": "https://pixeldrain.net/api/file/TraD4ybC?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "9N6N5xMr",
+        "file_name": "[One Pace][381-382] Enies Lobby 04 [1080p][En Dub][7096FA5D].mp4",
+        "size": 475224785,
+        "url": "https://pixeldrain.net/api/file/9N6N5xMr?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "WtoHoFXN",
+        "file_name": "[One Pace][383-385] Enies Lobby 05 [1080p][En Dub][A7693BFA].mp4",
+        "size": 560672969,
+        "url": "https://pixeldrain.net/api/file/WtoHoFXN?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "Bc9m3PjC",
+        "file_name": "[One Pace][385-387] Enies Lobby 06 [1080p][En Dub][8AF66379].mp4",
+        "size": 415147013,
+        "url": "https://pixeldrain.net/api/file/Bc9m3PjC?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "YZ2dj4Lm",
+        "file_name": "[One Pace][388-390] Enies Lobby 07 [1080p][En Dub][2417ABC1].mp4",
+        "size": 461552873,
+        "url": "https://pixeldrain.net/api/file/YZ2dj4Lm?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "R2RxaJtd",
+        "file_name": "[One Pace][391-393] Enies Lobby 08 [1080p][En Dub][1CBF770D].mp4",
+        "size": 458125623,
+        "url": "https://pixeldrain.net/api/file/R2RxaJtd?download"
+      },
+      {
+        "episode_num": 9,
+        "file_id": "ZYnq1EhS",
+        "file_name": "[One Pace][394-396] Enies Lobby 09 [1080p][En Dub][6CD7D650].mp4",
+        "size": 572473243,
+        "url": "https://pixeldrain.net/api/file/ZYnq1EhS?download"
+      },
+      {
+        "episode_num": 10,
+        "file_id": "mSVdN5EG",
+        "file_name": "[One Pace][397-398] Enies Lobby 10 [1080p][En Dub][F4860894].mp4",
+        "size": 368176783,
+        "url": "https://pixeldrain.net/api/file/mSVdN5EG?download"
+      },
+      {
+        "episode_num": 11,
+        "file_id": "Qnod6H8K",
+        "file_name": "[One Pace][399-400] Enies Lobby 11 [720p][En Sub][77C93A19].mp4",
+        "size": 259232341,
+        "url": "https://pixeldrain.net/api/file/Qnod6H8K?download"
+      },
+      {
+        "episode_num": 12,
+        "file_id": "zVpwDmHN",
+        "file_name": "[One Pace][401-402] Enies Lobby 12 [720p][En Sub][57AE60DD].mp4",
+        "size": 201910507,
+        "url": "https://pixeldrain.net/api/file/zVpwDmHN?download"
+      },
+      {
+        "episode_num": 13,
+        "file_id": "yYzTrzcj",
+        "file_name": "[One Pace][403-404] Enies Lobby 13 [720p][En Sub][FCC01091].mp4",
+        "size": 266751537,
+        "url": "https://pixeldrain.net/api/file/yYzTrzcj?download"
+      },
+      {
+        "episode_num": 14,
+        "file_id": "6isJoSmf",
+        "file_name": "[One Pace][405-406] Enies Lobby 14 [720p][En Sub][D2C98B5E].mp4",
+        "size": 234264874,
+        "url": "https://pixeldrain.net/api/file/6isJoSmf?download"
+      },
+      {
+        "episode_num": 15,
+        "file_id": "1wz8f5m3",
+        "file_name": "[One Pace][407-408] Enies Lobby 15 [720p][En Sub][14396530].mp4",
+        "size": 204152548,
+        "url": "https://pixeldrain.net/api/file/1wz8f5m3?download"
+      },
+      {
+        "episode_num": 16,
+        "file_id": "DNEXQNyX",
+        "file_name": "[One Pace][409-411] Enies Lobby 16 [720p][En Sub][FD40B6F2].mp4",
+        "size": 253075937,
+        "url": "https://pixeldrain.net/api/file/DNEXQNyX?download"
+      },
+      {
+        "episode_num": 17,
+        "file_id": "PK3G5mpW",
+        "file_name": "[One Pace][412-413] Enies Lobby 17 [720p][En Sub][B1EC72E4].mp4",
+        "size": 242778251,
+        "url": "https://pixeldrain.net/api/file/PK3G5mpW?download"
+      },
+      {
+        "episode_num": 18,
+        "file_id": "RYebKGtj",
+        "file_name": "[One Pace][414-415] Enies Lobby 18 [720p][En Sub][E35266FB].mp4",
+        "size": 192193381,
+        "url": "https://pixeldrain.net/api/file/RYebKGtj?download"
+      },
+      {
+        "episode_num": 19,
+        "file_id": "FLUusAHp",
+        "file_name": "[One Pace][416-418] Enies Lobby 19 [720p][En Sub][B0CE726C].mp4",
+        "size": 307096646,
+        "url": "https://pixeldrain.net/api/file/FLUusAHp?download"
+      },
+      {
+        "episode_num": 20,
+        "file_id": "ngEBBsqV",
+        "file_name": "[One Pace][419-420] Enies Lobby 20 [720p][En Sub][0839156F].mp4",
+        "size": 247941531,
+        "url": "https://pixeldrain.net/api/file/ngEBBsqV?download"
+      },
+      {
+        "episode_num": 21,
+        "file_id": "o3vf6rgw",
+        "file_name": "[One Pace][421-422] Enies Lobby 21 [720p][En Sub][E0DE800B].mp4",
+        "size": 265048304,
+        "url": "https://pixeldrain.net/api/file/o3vf6rgw?download"
+      },
+      {
+        "episode_num": 22,
+        "file_id": "FdPmFxKP",
+        "file_name": "[One Pace][423-424] Enies Lobby 22 [720p][En Sub][AB11C8EA].mp4",
+        "size": 247208995,
+        "url": "https://pixeldrain.net/api/file/FdPmFxKP?download"
+      },
+      {
+        "episode_num": 23,
+        "file_id": "S5hPWpWf",
+        "file_name": "[One Pace][425-427] Enies Lobby 23 [720p][En Dub][F0F33F7C].mp4",
+        "size": 564559190,
+        "url": "https://pixeldrain.net/api/file/S5hPWpWf?download"
+      },
+      {
+        "episode_num": 24,
+        "file_id": "cZAsk6W6",
+        "file_name": "[One Pace][428-429] Enies Lobby 24 [720p][En Dub][F3F3F415].mp4",
+        "size": 445656239,
+        "url": "https://pixeldrain.net/api/file/cZAsk6W6?download"
+      },
+      {
+        "episode_num": 25,
+        "file_id": "oGTArqvb",
+        "file_name": "[One Pace][430] Enies Lobby 25 [720p][En Dub][5013B3C6].mp4",
+        "size": 260115564,
+        "url": "https://pixeldrain.net/api/file/oGTArqvb?download"
+      }
+    ]
+  },
+  {
+    "slug": "post-enies-lobby",
+    "title": "Post-Enies Lobby",
+    "special": false,
+    "playlist_id": "upyN5vVk",
+    "resolution": 720,
+    "sub": "en",
+    "dub": "ja",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "KhMvJEtr",
+        "file_name": "[One Pace][431-432] Post-Enies Lobby 01 [720p][En Sub][56767F63].mp4",
+        "size": 386798973,
+        "url": "https://pixeldrain.net/api/file/KhMvJEtr?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "FNFADi5W",
+        "file_name": "[One Pace][433-435] Post-Enies Lobby 02 [720p][En Sub][2AF1AF9C].mp4",
+        "size": 477167162,
+        "url": "https://pixeldrain.net/api/file/FNFADi5W?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "VxaY8ugA",
+        "file_name": "[One Pace][436-437] Post-Enies Lobby 03 [720p][En Sub][E66DEB11].mp4",
+        "size": 301246421,
+        "url": "https://pixeldrain.net/api/file/VxaY8ugA?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "1R2G8uPe",
+        "file_name": "[One Pace][438-439] Post-Enies Lobby 04 [720p][En Sub][65E51572].mp4",
+        "size": 342785375,
+        "url": "https://pixeldrain.net/api/file/1R2G8uPe?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "bCAoTUxe",
+        "file_name": "[One Pace][440-441] Post-Enies Lobby 05 [720p][En Sub][BC2451B1].mp4",
+        "size": 237944612,
+        "url": "https://pixeldrain.net/api/file/bCAoTUxe?download"
+      }
+    ]
+  },
+  {
+    "slug": "thriller-bark",
+    "title": "Thriller Bark",
+    "special": false,
+    "playlist_id": "Cq9faLGv",
+    "resolution": 720,
+    "sub": "en",
+    "dub": "ja",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "CvXHADn3",
+        "file_name": "[One Pace][442-443] Thriller Bark 01 [720p][En Sub][969C335A].mp4",
+        "size": 248218976,
+        "url": "https://pixeldrain.net/api/file/CvXHADn3?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "6E9WsTvW",
+        "file_name": "[One Pace][444-445] Thriller Bark 02 [720p][En Sub][A818CC03].mp4",
+        "size": 244245780,
+        "url": "https://pixeldrain.net/api/file/6E9WsTvW?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "p95r24Qe",
+        "file_name": "[One Pace][446-448] Thriller Bark 03 [720p][En Sub][26E7A9EB].mp4",
+        "size": 296235971,
+        "url": "https://pixeldrain.net/api/file/p95r24Qe?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "SUp7wyhA",
+        "file_name": "[One Pace][449-450] Thriller Bark 04 [720p][En Sub][73505DA4].mp4",
+        "size": 225374793,
+        "url": "https://pixeldrain.net/api/file/SUp7wyhA?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "rRhZk5u8",
+        "file_name": "[One Pace][451-452] Thriller Bark 05 [720p][En Sub][4B861635].mp4",
+        "size": 180233750,
+        "url": "https://pixeldrain.net/api/file/rRhZk5u8?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "3CxHsHqV",
+        "file_name": "[One Pace][453-454] Thriller Bark 06 [720p][En Sub][106A11C6].mp4",
+        "size": 233215929,
+        "url": "https://pixeldrain.net/api/file/3CxHsHqV?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "NnVS2tJc",
+        "file_name": "[One Pace][455-456] Thriller Bark 07 [720p][En Sub][472E23E2].mp4",
+        "size": 228538545,
+        "url": "https://pixeldrain.net/api/file/NnVS2tJc?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "jq9azKme",
+        "file_name": "[One Pace][457-458] Thriller Bark 08 [720p][En Sub][9F210F5E].mp4",
+        "size": 281600259,
+        "url": "https://pixeldrain.net/api/file/jq9azKme?download"
+      },
+      {
+        "episode_num": 9,
+        "file_id": "3fSq7w4j",
+        "file_name": "[One Pace][459-460] Thriller Bark 09 [720p][En Sub][006A7340].mp4",
+        "size": 228182961,
+        "url": "https://pixeldrain.net/api/file/3fSq7w4j?download"
+      },
+      {
+        "episode_num": 10,
+        "file_id": "759zwTHy",
+        "file_name": "[One Pace][461-462] Thriller Bark 10 [720p][En Sub][9273130E].mp4",
+        "size": 244705875,
+        "url": "https://pixeldrain.net/api/file/759zwTHy?download"
+      },
+      {
+        "episode_num": 11,
+        "file_id": "NZsUf5UU",
+        "file_name": "[One Pace][463-464] Thriller Bark 11 [720p][En Sub][9673EDD2].mp4",
+        "size": 250958712,
+        "url": "https://pixeldrain.net/api/file/NZsUf5UU?download"
+      },
+      {
+        "episode_num": 12,
+        "file_id": "ScXGY7iw",
+        "file_name": "[One Pace][465-466] Thriller Bark 12 [720p][En Sub][A13B58F1].mp4",
+        "size": 216522222,
+        "url": "https://pixeldrain.net/api/file/ScXGY7iw?download"
+      },
+      {
+        "episode_num": 13,
+        "file_id": "NJCWVmQK",
+        "file_name": "[One Pace][467-468] Thriller Bark 13 [720p][En Sub][C072F225].mp4",
+        "size": 201086314,
+        "url": "https://pixeldrain.net/api/file/NJCWVmQK?download"
+      },
+      {
+        "episode_num": 14,
+        "file_id": "knDzLZKf",
+        "file_name": "[One Pace][469-470] Thriller Bark 14 [720p][En Sub][B8A35D6B].mp4",
+        "size": 189863502,
+        "url": "https://pixeldrain.net/api/file/knDzLZKf?download"
+      },
+      {
+        "episode_num": 15,
+        "file_id": "U3BiA5jL",
+        "file_name": "[One Pace][471-472] Thriller Bark 15 [720p][En Sub][FCE1F1B8].mp4",
+        "size": 240180127,
+        "url": "https://pixeldrain.net/api/file/U3BiA5jL?download"
+      },
+      {
+        "episode_num": 16,
+        "file_id": "MJ8CLka4",
+        "file_name": "[One Pace][473-474] Thriller Bark 16 [720p][En Sub][1668D32D].mp4",
+        "size": 204186291,
+        "url": "https://pixeldrain.net/api/file/MJ8CLka4?download"
+      },
+      {
+        "episode_num": 17,
+        "file_id": "tHShXzQ1",
+        "file_name": "[One Pace][475-476] Thriller Bark 17 [720p][En Sub][6FBC20DF].mp4",
+        "size": 224902043,
+        "url": "https://pixeldrain.net/api/file/tHShXzQ1?download"
+      },
+      {
+        "episode_num": 18,
+        "file_id": "xE7EzrTx",
+        "file_name": "[One Pace][477-479] Thriller Bark 18 [720p][En Sub][6E6D6B48].mp4",
+        "size": 238454969,
+        "url": "https://pixeldrain.net/api/file/xE7EzrTx?download"
+      },
+      {
+        "episode_num": 19,
+        "file_id": "EAQtjmn2",
+        "file_name": "[One Pace][480-482] Thriller Bark 19 [720p][En Sub][7A76C308].mp4",
+        "size": 287201062,
+        "url": "https://pixeldrain.net/api/file/EAQtjmn2?download"
+      },
+      {
+        "episode_num": 20,
+        "file_id": "gHksYa1r",
+        "file_name": "[One Pace][483-484] Thriller Bark 20 [720p][En Sub][A84D27B2].mp4",
+        "size": 307607686,
+        "url": "https://pixeldrain.net/api/file/gHksYa1r?download"
+      },
+      {
+        "episode_num": 21,
+        "file_id": "NDh2qXzp",
+        "file_name": "[One Pace][485-487] Thriller Bark 21 [720p][En Sub][62A233C6].mp4",
+        "size": 290800840,
+        "url": "https://pixeldrain.net/api/file/NDh2qXzp?download"
+      },
+      {
+        "episode_num": 22,
+        "file_id": "xrce1FPR",
+        "file_name": "[One Pace][488-489] Thriller Bark 22 [720p][En Sub][984AA194].mp4",
+        "size": 253617131,
+        "url": "https://pixeldrain.net/api/file/xrce1FPR?download"
+      }
+    ]
+  },
+  {
+    "slug": "sabaody-archipelago",
+    "title": "Sabaody Archipelago",
+    "special": false,
+    "playlist_id": "jhpKUqF8",
+    "resolution": 720,
+    "sub": "en",
+    "dub": "ja",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "cnHCN4Az",
+        "file_name": "[One Pace][490-491] Sabaody Archipelago 01 [720p][En Sub][29BA8F3E].mp4",
+        "size": 230894081,
+        "url": "https://pixeldrain.net/api/file/cnHCN4Az?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "rbnyf8PS",
+        "file_name": "[One Pace][492-493] Sabaody Archipelago 02 [720p][En Sub][8D952F9E].mp4",
+        "size": 199814990,
+        "url": "https://pixeldrain.net/api/file/rbnyf8PS?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "vnq66wDN",
+        "file_name": "[One Pace][494-495] Sabaody Archipelago 03 [720p][En Sub][D405AC14].mp4",
+        "size": 225195586,
+        "url": "https://pixeldrain.net/api/file/vnq66wDN?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "Q2KTRVJn",
+        "file_name": "[One Pace][496-497] Sabaody Archipelago 04 [720p][En Sub][2BEC7E19].mp4",
+        "size": 240246190,
+        "url": "https://pixeldrain.net/api/file/Q2KTRVJn?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "xnBnD4bJ",
+        "file_name": "[One Pace][498-500] Sabaody Archipelago 05 [720p][En Sub][176FBE96].mp4",
+        "size": 357636015,
+        "url": "https://pixeldrain.net/api/file/xnBnD4bJ?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "KT5ochok",
+        "file_name": "[One Pace][501-502] Sabaody Archipelago 06 [720p][En Sub][454E5E1D].mp4",
+        "size": 227734750,
+        "url": "https://pixeldrain.net/api/file/KT5ochok?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "EUzGB9rn",
+        "file_name": "[One Pace][503-504] Sabaody Archipelago 07 [720p][En Sub][8189584B].mp4",
+        "size": 172461752,
+        "url": "https://pixeldrain.net/api/file/EUzGB9rn?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "9GJWL9sw",
+        "file_name": "[One Pace][505-506] Sabaody Archipelago 08 [720p][En Sub][2698730E].mp4",
+        "size": 210844626,
+        "url": "https://pixeldrain.net/api/file/9GJWL9sw?download"
+      },
+      {
+        "episode_num": 9,
+        "file_id": "Hd1JhdrL",
+        "file_name": "[One Pace][507-508] Sabaody Archipelago 09 [720p][En Sub][C6B699A3].mp4",
+        "size": 189930949,
+        "url": "https://pixeldrain.net/api/file/Hd1JhdrL?download"
+      },
+      {
+        "episode_num": 10,
+        "file_id": "gpbXz79q",
+        "file_name": "[One Pace][509-511] Sabaody Archipelago 10 [720p][En Sub][A63E4B59].mp4",
+        "size": 307844591,
+        "url": "https://pixeldrain.net/api/file/gpbXz79q?download"
+      },
+      {
+        "episode_num": 11,
+        "file_id": "jyL3eqM6",
+        "file_name": "[One Pace][512-513] Sabaody Archipelago 11 [720p][En Sub][D2C33ADE].mp4",
+        "size": 238090158,
+        "url": "https://pixeldrain.net/api/file/jyL3eqM6?download"
+      }
+    ]
+  },
+  {
+    "slug": "amazon-lily",
+    "title": "Amazon Lily",
+    "special": false,
+    "playlist_id": "Bsr9gKsn",
+    "resolution": 720,
+    "sub": "en",
+    "dub": "ja",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "Bdd6Sw4y",
+        "file_name": "[One Pace][514-515] Amazon Lily 01 [720p][En Sub][C53E8763].mp4",
+        "size": 223194492,
+        "url": "https://pixeldrain.net/api/file/Bdd6Sw4y?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "2p4LbCpw",
+        "file_name": "[One Pace][516-517] Amazon Lily 02 [720p][En Sub][1385B617].mp4",
+        "size": 234243706,
+        "url": "https://pixeldrain.net/api/file/2p4LbCpw?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "23aHgMLT",
+        "file_name": "[One Pace][518-519] Amazon Lily 03 [720p][En Sub][5C355847].mp4",
+        "size": 211569550,
+        "url": "https://pixeldrain.net/api/file/23aHgMLT?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "6gmDvdfp",
+        "file_name": "[One Pace][520-522] Amazon Lily 04 [720p][En Sub][EE308D39].mp4",
+        "size": 293343400,
+        "url": "https://pixeldrain.net/api/file/6gmDvdfp?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "ft4wKKja",
+        "file_name": "[One Pace][523-524] Amazon Lily 05 [720p][En Sub][4FE0248E].mp4",
+        "size": 257049327,
+        "url": "https://pixeldrain.net/api/file/ft4wKKja?download"
+      }
+    ]
+  },
+  {
+    "slug": "impel-down",
+    "title": "Impel Down",
+    "special": false,
+    "playlist_id": "y5ywnHdF",
+    "resolution": 720,
+    "sub": "en",
+    "dub": "ja",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "qM2MmCEy",
+        "file_name": "[One Pace][525-526] Impel Down 01 [720p][En Sub][2FC52200].mp4",
+        "size": 221738818,
+        "url": "https://pixeldrain.net/api/file/qM2MmCEy?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "iBtq3gYf",
+        "file_name": "[One Pace][527-528] Impel Down 02 [720p][En Sub][EDD250CC].mp4",
+        "size": 299661873,
+        "url": "https://pixeldrain.net/api/file/iBtq3gYf?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "n6tYny4D",
+        "file_name": "[One Pace][529-531] Impel Down 03 [720p][En Sub][E3729783].mp4",
+        "size": 320927656,
+        "url": "https://pixeldrain.net/api/file/n6tYny4D?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "kraWSy4n",
+        "file_name": "[One Pace][532-533] Impel Down 04 [720p][En Sub][0DABEF45].mp4",
+        "size": 237387779,
+        "url": "https://pixeldrain.net/api/file/kraWSy4n?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "ovL9Hw2X",
+        "file_name": "[One Pace][534-536] Impel Down 05 [720p][En Sub][EC1FFEBE].mp4",
+        "size": 252450949,
+        "url": "https://pixeldrain.net/api/file/ovL9Hw2X?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "dBXFRjk4",
+        "file_name": "[One Pace][537-538] Impel Down 06 [720p][En Sub][EC8C8B1A].mp4",
+        "size": 240831969,
+        "url": "https://pixeldrain.net/api/file/dBXFRjk4?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "1dqbF6X6",
+        "file_name": "[One Pace][539-540] Impel Down 07 [720p][En Sub][551C9708].mp4",
+        "size": 222220881,
+        "url": "https://pixeldrain.net/api/file/1dqbF6X6?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "w1tiRmvi",
+        "file_name": "[One Pace][541-543] Impel Down 08 [720p][En Sub][8B66A983].mp4",
+        "size": 509189458,
+        "url": "https://pixeldrain.net/api/file/w1tiRmvi?download"
+      },
+      {
+        "episode_num": 9,
+        "file_id": "UAfm9Fxy",
+        "file_name": "[One Pace][544-546] Impel Down 09 [720p][En Sub][FE6D23ED].mp4",
+        "size": 482532140,
+        "url": "https://pixeldrain.net/api/file/UAfm9Fxy?download"
+      },
+      {
+        "episode_num": 10,
+        "file_id": "GtEsAtwB",
+        "file_name": "[One Pace][547-548] Impel Down 10 [720p][En Sub][8416BF9E].mp4",
+        "size": 353719314,
+        "url": "https://pixeldrain.net/api/file/GtEsAtwB?download"
+      }
+    ]
+  },
+  {
+    "slug": "if-you-could-go-anywhere-the-adventures-of-the-straw-hats",
+    "title": "If You Could Go Anywhere... The Adventures of the Straw Hats",
+    "special": false,
+    "playlist_id": "Ua5GkcGr",
+    "resolution": 720,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "zoY3DfBt",
+        "file_name": "[One Pace][543-560 cover stories] If You Could Go Anywhere... The Adventures of the Straw Hats 01 [720p][En Dub][385035CD].mp4",
+        "size": 230780414,
+        "url": "https://pixeldrain.net/api/file/zoY3DfBt?download"
+      }
+    ]
+  },
+  {
+    "slug": "marineford",
+    "title": "Marineford",
+    "special": false,
+    "playlist_id": "uFuFpnpi",
+    "resolution": 720,
+    "sub": "en",
+    "dub": "ja",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "yRgX3ESM",
+        "file_name": "[One Pace][549-550] Marineford 01 [720p][En Sub][D0A36728].mp4",
+        "size": 250524340,
+        "url": "https://pixeldrain.net/api/file/yRgX3ESM?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "ErqhDsrr",
+        "file_name": "[One Pace][551-552] Marineford 02 [720p][En Sub][2CA65036].mp4",
+        "size": 293379575,
+        "url": "https://pixeldrain.net/api/file/ErqhDsrr?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "zkkYSxaL",
+        "file_name": "[One Pace][553-554] Marineford 03 [720p][En Sub][039AFBD4].mp4",
+        "size": 191369857,
+        "url": "https://pixeldrain.net/api/file/zkkYSxaL?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "uVjBS5jf",
+        "file_name": "[One Pace][555-556] Marineford 04 [720p][En Sub][528FD5CF].mp4",
+        "size": 226948774,
+        "url": "https://pixeldrain.net/api/file/uVjBS5jf?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "dy2zBndd",
+        "file_name": "[One Pace][557-558] Marineford 05 [720p][En Sub][C91EECF7].mp4",
+        "size": 251296363,
+        "url": "https://pixeldrain.net/api/file/dy2zBndd?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "FATxMeCZ",
+        "file_name": "[One Pace][559-560] Marineford 06 [720p][En Sub][C5A9446C].mp4",
+        "size": 251158013,
+        "url": "https://pixeldrain.net/api/file/FATxMeCZ?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "jhwfy9iq",
+        "file_name": "[One Pace][561-562] Marineford 07 [720p][En Sub][19EDEB8E].mp4",
+        "size": 320130285,
+        "url": "https://pixeldrain.net/api/file/jhwfy9iq?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "3EdMZyeS",
+        "file_name": "[One Pace][563-564] Marineford 08 [720p][En Sub][33B6B11B].mp4",
+        "size": 261335676,
+        "url": "https://pixeldrain.net/api/file/3EdMZyeS?download"
+      },
+      {
+        "episode_num": 9,
+        "file_id": "9hurbwak",
+        "file_name": "[One Pace][565-566] Marineford 09 [720p][En Sub][5C7D6B89].mp4",
+        "size": 279662051,
+        "url": "https://pixeldrain.net/api/file/9hurbwak?download"
+      },
+      {
+        "episode_num": 10,
+        "file_id": "BVcHtd44",
+        "file_name": "[One Pace][567] Marineford 10 [720p][En Sub][8973771F].mp4",
+        "size": 132258715,
+        "url": "https://pixeldrain.net/api/file/BVcHtd44?download"
+      },
+      {
+        "episode_num": 11,
+        "file_id": "iv1U9B5f",
+        "file_name": "[One Pace][568-569] Marineford 11 [720p][En Sub][BCC23F2F].mp4",
+        "size": 234735812,
+        "url": "https://pixeldrain.net/api/file/iv1U9B5f?download"
+      },
+      {
+        "episode_num": 12,
+        "file_id": "Yb52g6fG",
+        "file_name": "[One Pace][570-571] Marineford 12 [720p][En Sub][FF98E746].mp4",
+        "size": 257045051,
+        "url": "https://pixeldrain.net/api/file/Yb52g6fG?download"
+      },
+      {
+        "episode_num": 13,
+        "file_id": "HjNSw2DG",
+        "file_name": "[One Pace][572-573] Marineford 13 [720p][En Sub][BFD456B1].mp4",
+        "size": 244891321,
+        "url": "https://pixeldrain.net/api/file/HjNSw2DG?download"
+      },
+      {
+        "episode_num": 14,
+        "file_id": "cim3Udx9",
+        "file_name": "[One Pace][574] Marineford 14 [720p][En Sub][D934D0EB].mp4",
+        "size": 149658538,
+        "url": "https://pixeldrain.net/api/file/cim3Udx9?download"
+      },
+      {
+        "episode_num": 15,
+        "file_id": "GSpBh89e",
+        "file_name": "[One Pace][575-576] Marineford 15 [720p][En Sub][8B71A098].mp4",
+        "size": 290870450,
+        "url": "https://pixeldrain.net/api/file/GSpBh89e?download"
+      },
+      {
+        "episode_num": 16,
+        "file_id": "KVimekco",
+        "file_name": "[One Pace][577-578] Marineford 16 [720p][En Sub][D4D557A3].mp4",
+        "size": 237814267,
+        "url": "https://pixeldrain.net/api/file/KVimekco?download"
+      },
+      {
+        "episode_num": 17,
+        "file_id": "anbEWWRY",
+        "file_name": "[One Pace][579-580] Marineford 17 [720p][En Sub][A10BC157].mp4",
+        "size": 218227584,
+        "url": "https://pixeldrain.net/api/file/anbEWWRY?download"
+      }
+    ]
+  },
+  {
+    "slug": "post-war",
+    "title": "Post-War",
+    "special": false,
+    "playlist_id": "tEnZhUuP",
+    "resolution": 720,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "UGGfC6Ps",
+        "file_name": "[One Pace][581-582] Post-War 01 [720p][En Dub][73FE9CA7].mp4",
+        "size": 321411263,
+        "url": "https://pixeldrain.net/api/file/UGGfC6Ps?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "DVnkXo4A",
+        "file_name": "[One Pace][583-584] Post-War 02 [720p][En Dub][DA448511].mp4",
+        "size": 405750590,
+        "url": "https://pixeldrain.net/api/file/DVnkXo4A?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "VkTQDyFZ",
+        "file_name": "[One Pace][585-586] Post-War 03 [720p][En Dub][EFDFA6B8].mp4",
+        "size": 426417405,
+        "url": "https://pixeldrain.net/api/file/VkTQDyFZ?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "aanCePjo",
+        "file_name": "[One Pace][587-588] Post-War 04 [720p][En Dub][CF8A6D9F].mp4",
+        "size": 443960740,
+        "url": "https://pixeldrain.net/api/file/aanCePjo?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "dAANnbMf",
+        "file_name": "[One Pace][589-590] Post-War 05 [720p][En Dub][E5BB1D63].mp4",
+        "size": 480526328,
+        "url": "https://pixeldrain.net/api/file/dAANnbMf?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "b1URXQ8s",
+        "file_name": "[One Pace][591-592] Post-War 06 [720p][En Dub][D87795CB].mp4",
+        "size": 531876288,
+        "url": "https://pixeldrain.net/api/file/b1URXQ8s?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "k1j1hEsp",
+        "file_name": "[One Pace][593-594] Post-War 07 [720p][En Sub][2E0FB520].mp4",
+        "size": 341400119,
+        "url": "https://pixeldrain.net/api/file/k1j1hEsp?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "SA5mKRhD",
+        "file_name": "[One Pace][595-597] Post-War 08 [720p][En Sub][5E02EC44].mp4",
+        "size": 471243186,
+        "url": "https://pixeldrain.net/api/file/SA5mKRhD?download"
+      }
+    ]
+  },
+  {
+    "slug": "return-to-sabaody",
+    "title": "Return to Sabaody",
+    "special": false,
+    "playlist_id": "ED8gfT3e",
+    "resolution": 720,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "7zsBtg2b",
+        "file_name": "[One Pace][598-599] Return to Sabaody 01 [720p][En Dub][EEB35FDB].mp4",
+        "size": 402378016,
+        "url": "https://pixeldrain.net/api/file/7zsBtg2b?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "2VxBss1s",
+        "file_name": "[One Pace][599-600] Return to Sabaody 02 [720p][En Dub][F594F965].mp4",
+        "size": 413472982,
+        "url": "https://pixeldrain.net/api/file/2VxBss1s?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "5PSGkBv6",
+        "file_name": "[One Pace][601-602] Return to Sabaody 03 [720p][En Dub][448B1138].mp4",
+        "size": 455745467,
+        "url": "https://pixeldrain.net/api/file/5PSGkBv6?download"
+      }
+    ]
+  },
+  {
+    "slug": "fishman-island",
+    "title": "Fishman Island",
+    "special": false,
+    "playlist_id": "o6ZzNwzp",
+    "resolution": 720,
+    "sub": "en",
+    "dub": "ja",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "hiGUPaqR",
+        "file_name": "[One Pace][603-604] Fishman Island 01 [720p][En Sub][B2AB2AD3].mp4",
+        "size": 228081003,
+        "url": "https://pixeldrain.net/api/file/hiGUPaqR?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "i82FhpQd",
+        "file_name": "[One Pace][605-606] Fishman Island 02 [720p][En Sub][A62CA6EC].mp4",
+        "size": 210904137,
+        "url": "https://pixeldrain.net/api/file/i82FhpQd?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "8QZs27az",
+        "file_name": "[One Pace][607-608] Fishman Island 03 [720p][En Sub][30A587BD].mp4",
+        "size": 208952247,
+        "url": "https://pixeldrain.net/api/file/8QZs27az?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "g1DgwnFJ",
+        "file_name": "[One Pace][609-610] Fishman Island 04 [720p][En Sub][4326D581].mp4",
+        "size": 252070913,
+        "url": "https://pixeldrain.net/api/file/g1DgwnFJ?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "Unbi5zdW",
+        "file_name": "[One Pace][611-612] Fishman Island 05 [720p][En Sub][0E95DCA9].mp4",
+        "size": 236030535,
+        "url": "https://pixeldrain.net/api/file/Unbi5zdW?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "6oRyS3Ca",
+        "file_name": "[One Pace][613-614] Fishman Island 06 [720p][En Sub][D03A2802].mp4",
+        "size": 260910985,
+        "url": "https://pixeldrain.net/api/file/6oRyS3Ca?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "nMo4ptMa",
+        "file_name": "[One Pace][614-615] Fishman Island 07 [720p][En Sub][4BC8837D].mp4",
+        "size": 291958814,
+        "url": "https://pixeldrain.net/api/file/nMo4ptMa?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "EwH3VNgB",
+        "file_name": "[One Pace][616-618] Fishman Island 08 [720p][En Sub][1393E9E8].mp4",
+        "size": 384450582,
+        "url": "https://pixeldrain.net/api/file/EwH3VNgB?download"
+      },
+      {
+        "episode_num": 9,
+        "file_id": "VqAkJ42K",
+        "file_name": "[One Pace][619-620] Fishman Island 09 [720p][En Sub][A2220A02].mp4",
+        "size": 293586797,
+        "url": "https://pixeldrain.net/api/file/VqAkJ42K?download"
+      },
+      {
+        "episode_num": 10,
+        "file_id": "3ezuWyN1",
+        "file_name": "[One Pace][621-622] Fishman Island 10 [720p][En Sub][51DC9515].mp4",
+        "size": 305015145,
+        "url": "https://pixeldrain.net/api/file/3ezuWyN1?download"
+      },
+      {
+        "episode_num": 11,
+        "file_id": "3VhuCCLB",
+        "file_name": "[One Pace][623-624] Fishman Island 11 [720p][En Sub][B24E2A94].mp4",
+        "size": 307298223,
+        "url": "https://pixeldrain.net/api/file/3VhuCCLB?download"
+      },
+      {
+        "episode_num": 12,
+        "file_id": "krWAu2qJ",
+        "file_name": "[One Pace][625-626] Fishman Island 12 [720p][En Sub][A623A4B6].mp4",
+        "size": 332581382,
+        "url": "https://pixeldrain.net/api/file/krWAu2qJ?download"
+      },
+      {
+        "episode_num": 13,
+        "file_id": "s1Mb6m9k",
+        "file_name": "[One Pace][627-629] Fishman Island 13 [720p][En Sub][81F825F3].mp4",
+        "size": 298878706,
+        "url": "https://pixeldrain.net/api/file/s1Mb6m9k?download"
+      },
+      {
+        "episode_num": 14,
+        "file_id": "ACdYmMhE",
+        "file_name": "[One Pace][630-631] Fishman Island 14 [720p][En Sub][2C7B5722].mp4",
+        "size": 246513387,
+        "url": "https://pixeldrain.net/api/file/ACdYmMhE?download"
+      },
+      {
+        "episode_num": 15,
+        "file_id": "2M7173pS",
+        "file_name": "[One Pace][632-633] Fishman Island 15 [720p][En Sub][727F60A8].mp4",
+        "size": 259275829,
+        "url": "https://pixeldrain.net/api/file/2M7173pS?download"
+      },
+      {
+        "episode_num": 16,
+        "file_id": "EEhJsYZz",
+        "file_name": "[One Pace][634-635] Fishman Island 16 [720p][En Sub][67E85047].mp4",
+        "size": 307613003,
+        "url": "https://pixeldrain.net/api/file/EEhJsYZz?download"
+      },
+      {
+        "episode_num": 17,
+        "file_id": "e8mfwrMA",
+        "file_name": "[One Pace][636-637] Fishman Island 17 [720p][En Sub][EE8DA520].mp4",
+        "size": 238068830,
+        "url": "https://pixeldrain.net/api/file/e8mfwrMA?download"
+      },
+      {
+        "episode_num": 18,
+        "file_id": "C32Vc5jQ",
+        "file_name": "[One Pace][638-639] Fishman Island 18 [720p][En Sub][4719A083].mp4",
+        "size": 212053561,
+        "url": "https://pixeldrain.net/api/file/C32Vc5jQ?download"
+      },
+      {
+        "episode_num": 19,
+        "file_id": "CfZL3jUz",
+        "file_name": "[One Pace][640-641] Fishman Island 19 [720p][En Sub][CB1FF262].mp4",
+        "size": 262315222,
+        "url": "https://pixeldrain.net/api/file/CfZL3jUz?download"
+      },
+      {
+        "episode_num": 20,
+        "file_id": "4Lp7Lh8a",
+        "file_name": "[One Pace][642-645] Fishman Island 20 [720p][En Sub][E33AFCCB].mp4",
+        "size": 259417047,
+        "url": "https://pixeldrain.net/api/file/4Lp7Lh8a?download"
+      },
+      {
+        "episode_num": 21,
+        "file_id": "1Cpq7GXB",
+        "file_name": "[One Pace][643-646] Fishman Island 21 [720p][En Sub][22F83131].mp4",
+        "size": 249741026,
+        "url": "https://pixeldrain.net/api/file/1Cpq7GXB?download"
+      },
+      {
+        "episode_num": 22,
+        "file_id": "jDagHvBe",
+        "file_name": "[One Pace][647-649] Fishman Island 22 [720p][En Sub][0FA68A76].mp4",
+        "size": 357138635,
+        "url": "https://pixeldrain.net/api/file/jDagHvBe?download"
+      },
+      {
+        "episode_num": 23,
+        "file_id": "gu2TqJbs",
+        "file_name": "[One Pace][650-651] Fishman Island 23 [720p][En Sub][507BA03D].mp4",
+        "size": 266238129,
+        "url": "https://pixeldrain.net/api/file/gu2TqJbs?download"
+      },
+      {
+        "episode_num": 24,
+        "file_id": "pgQq795k",
+        "file_name": "[One Pace][652-653] Fishman Island 24 [720p][En Sub][91622C1A].mp4",
+        "size": 278474662,
+        "url": "https://pixeldrain.net/api/file/pgQq795k?download"
+      }
+    ]
+  },
+  {
+    "slug": "punk-hazard",
+    "title": "Punk Hazard",
+    "special": false,
+    "playlist_id": "wJoipMZu",
+    "resolution": 720,
+    "sub": "en",
+    "dub": "ja",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "RwKBFVnL",
+        "file_name": "[One Pace][654-655] Punk Hazard 01 [720p][En Sub][01D515EE].mp4",
+        "size": 276962859,
+        "url": "https://pixeldrain.net/api/file/RwKBFVnL?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "yYxxCWnV",
+        "file_name": "[One Pace][656-658] Punk Hazard 02 [720p][En Sub][0DE5BED7].mp4",
+        "size": 448838346,
+        "url": "https://pixeldrain.net/api/file/yYxxCWnV?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "DoTadNwR",
+        "file_name": "[One Pace][659-660] Punk Hazard 03 [720p][En Sub][801BB7DE].mp4",
+        "size": 333866356,
+        "url": "https://pixeldrain.net/api/file/DoTadNwR?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "YsBK1v5c",
+        "file_name": "[One Pace][661-662] Punk Hazard 04 [720p][En Sub][2520CBD4].mp4",
+        "size": 340837935,
+        "url": "https://pixeldrain.net/api/file/YsBK1v5c?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "j92t4U1x",
+        "file_name": "[One Pace][663-664] Punk Hazard 05 [720p][En Sub][D0F11A6C].mp4",
+        "size": 348936710,
+        "url": "https://pixeldrain.net/api/file/j92t4U1x?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "jTQgwfQg",
+        "file_name": "[One Pace][665-666] Punk Hazard 06 [720p][En Sub][ECDC9D19].mp4",
+        "size": 268834331,
+        "url": "https://pixeldrain.net/api/file/jTQgwfQg?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "gXZUWaQR",
+        "file_name": "[One Pace][667-668] Punk Hazard 07 [720p][En Sub][6F827031].mp4",
+        "size": 341366018,
+        "url": "https://pixeldrain.net/api/file/gXZUWaQR?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "x2w1eL94",
+        "file_name": "[One Pace][669-670] Punk Hazard 08 [720p][En Sub][A36AA0A0].mp4",
+        "size": 419128426,
+        "url": "https://pixeldrain.net/api/file/x2w1eL94?download"
+      },
+      {
+        "episode_num": 9,
+        "file_id": "TKVNHeYk",
+        "file_name": "[One Pace][671-672] Punk Hazard 09 [720p][En Sub][B063C5D7].mp4",
+        "size": 361858245,
+        "url": "https://pixeldrain.net/api/file/TKVNHeYk?download"
+      },
+      {
+        "episode_num": 10,
+        "file_id": "redorxiG",
+        "file_name": "[One Pace][673-674] Punk Hazard 10 [720p][En Sub][2CE72F8F].mp4",
+        "size": 249021629,
+        "url": "https://pixeldrain.net/api/file/redorxiG?download"
+      },
+      {
+        "episode_num": 11,
+        "file_id": "228TLfw8",
+        "file_name": "[One Pace][675-676] Punk Hazard 11 [720p][En Sub][CAC71F9F].mp4",
+        "size": 305598392,
+        "url": "https://pixeldrain.net/api/file/228TLfw8?download"
+      },
+      {
+        "episode_num": 12,
+        "file_id": "ajnuyhxa",
+        "file_name": "[One Pace][677-678] Punk Hazard 12 [720p][En Sub][C3D81CC0].mp4",
+        "size": 215701359,
+        "url": "https://pixeldrain.net/api/file/ajnuyhxa?download"
+      },
+      {
+        "episode_num": 13,
+        "file_id": "kCF7F8J7",
+        "file_name": "[One Pace][679-680] Punk Hazard 13 [720p][En Sub][F0BD63EA].mp4",
+        "size": 204228642,
+        "url": "https://pixeldrain.net/api/file/kCF7F8J7?download"
+      },
+      {
+        "episode_num": 14,
+        "file_id": "WBEXTmj4",
+        "file_name": "[One Pace][681-682] Punk Hazard 14 [720p][En Sub][B40208E7].mp4",
+        "size": 202326092,
+        "url": "https://pixeldrain.net/api/file/WBEXTmj4?download"
+      },
+      {
+        "episode_num": 15,
+        "file_id": "ZjSc9yP9",
+        "file_name": "[One Pace][683-684] Punk Hazard 15 [720p][En Sub][79DA6449].mp4",
+        "size": 192195445,
+        "url": "https://pixeldrain.net/api/file/ZjSc9yP9?download"
+      },
+      {
+        "episode_num": 16,
+        "file_id": "3XMrWCpS",
+        "file_name": "[One Pace][685-686] Punk Hazard 16 [720p][En Sub][DE446441].mp4",
+        "size": 256577695,
+        "url": "https://pixeldrain.net/api/file/3XMrWCpS?download"
+      },
+      {
+        "episode_num": 17,
+        "file_id": "Kept4ReL",
+        "file_name": "[One Pace][687-688] Punk Hazard 17 [720p][En Sub][73D51199].mp4",
+        "size": 253358369,
+        "url": "https://pixeldrain.net/api/file/Kept4ReL?download"
+      },
+      {
+        "episode_num": 18,
+        "file_id": "f9Tsm2SL",
+        "file_name": "[One Pace][689-690] Punk Hazard 18 [720p][En Sub][BA87B417].mp4",
+        "size": 191414931,
+        "url": "https://pixeldrain.net/api/file/f9Tsm2SL?download"
+      },
+      {
+        "episode_num": 19,
+        "file_id": "ah7AXzEB",
+        "file_name": "[One Pace][691-692] Punk Hazard 19 [720p][En Sub][A2E7690A].mp4",
+        "size": 224325543,
+        "url": "https://pixeldrain.net/api/file/ah7AXzEB?download"
+      },
+      {
+        "episode_num": 20,
+        "file_id": "hVY24pE1",
+        "file_name": "[One Pace][693-695] Punk Hazard 20 [720p][En Sub][FBC30EEB].mp4",
+        "size": 256956066,
+        "url": "https://pixeldrain.net/api/file/hVY24pE1?download"
+      },
+      {
+        "episode_num": 21,
+        "file_id": "Wi7RSyvJ",
+        "file_name": "[One Pace][696-697] Punk Hazard 21 [720p][En Sub][50D5EA7F].mp4",
+        "size": 233270109,
+        "url": "https://pixeldrain.net/api/file/Wi7RSyvJ?download"
+      },
+      {
+        "episode_num": 22,
+        "file_id": "iTNHq4rj",
+        "file_name": "[One Pace][698-699] Punk Hazard 22 [720p][En Sub][4CBC7E5D].mp4",
+        "size": 225185308,
+        "url": "https://pixeldrain.net/api/file/iTNHq4rj?download"
+      }
+    ]
+  },
+  {
+    "slug": "dressrosa",
+    "title": "Dressrosa",
+    "special": false,
+    "playlist_id": "DMuj2Pqe",
+    "resolution": 720,
+    "sub": "en",
+    "dub": "ja",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "bFMfAycQ",
+        "file_name": "[One Pace][700-701] Dressrosa 01 [720p][En Sub][01D45C4D].mp4",
+        "size": 249157678,
+        "url": "https://pixeldrain.net/api/file/bFMfAycQ?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "hu8QAFAc",
+        "file_name": "[One Pace][702-703] Dressrosa 02 [720p][En Sub][6FBB681B].mp4",
+        "size": 191620017,
+        "url": "https://pixeldrain.net/api/file/hu8QAFAc?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "KjSdvfgV",
+        "file_name": "[One Pace][704-705] Dressrosa 03 [720p][En Sub][F2E25D27].mp4",
+        "size": 232824992,
+        "url": "https://pixeldrain.net/api/file/KjSdvfgV?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "cFY71FF4",
+        "file_name": "[One Pace][706-707] Dressrosa 04 [720p][En Sub][AA526586].mp4",
+        "size": 187958136,
+        "url": "https://pixeldrain.net/api/file/cFY71FF4?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "C4nGwS2o",
+        "file_name": "[One Pace][708-709] Dressrosa 05 [720p][En Sub][F87CEB8D].mp4",
+        "size": 232143594,
+        "url": "https://pixeldrain.net/api/file/C4nGwS2o?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "eEmYFH6P",
+        "file_name": "[One Pace][710-711] Dressrosa 06 [720p][En Sub][840F2391].mp4",
+        "size": 236512233,
+        "url": "https://pixeldrain.net/api/file/eEmYFH6P?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "a2RSGNUy",
+        "file_name": "[One Pace][712-713] Dressrosa 07 [720p][En Sub][5B75ADD5].mp4",
+        "size": 234227366,
+        "url": "https://pixeldrain.net/api/file/a2RSGNUy?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "WbqbztTc",
+        "file_name": "[One Pace][714-715] Dressrosa 08 [720p][En Sub][70769152].mp4",
+        "size": 232539910,
+        "url": "https://pixeldrain.net/api/file/WbqbztTc?download"
+      },
+      {
+        "episode_num": 9,
+        "file_id": "VAMfixee",
+        "file_name": "[One Pace][716-717] Dressrosa 09 [720p][En Sub][FDC02283].mp4",
+        "size": 233764413,
+        "url": "https://pixeldrain.net/api/file/VAMfixee?download"
+      },
+      {
+        "episode_num": 10,
+        "file_id": "xDYS1R5y",
+        "file_name": "[One Pace][718-719] Dressrosa 10 [720p][En Sub][834A5551].mp4",
+        "size": 203058037,
+        "url": "https://pixeldrain.net/api/file/xDYS1R5y?download"
+      },
+      {
+        "episode_num": 11,
+        "file_id": "V5ZKUBAH",
+        "file_name": "[One Pace][720-721] Dressrosa 11 [720p][En Sub][4F67F5B1].mp4",
+        "size": 270847641,
+        "url": "https://pixeldrain.net/api/file/V5ZKUBAH?download"
+      },
+      {
+        "episode_num": 12,
+        "file_id": "4R1hGLQH",
+        "file_name": "[One Pace][722-723] Dressrosa 12 [720p][En Sub][C5E2B395].mp4",
+        "size": 268133162,
+        "url": "https://pixeldrain.net/api/file/4R1hGLQH?download"
+      },
+      {
+        "episode_num": 13,
+        "file_id": "asQhcZw6",
+        "file_name": "[One Pace][724-725] Dressrosa 13 [720p][En Sub][B259B0EA].mp4",
+        "size": 205033782,
+        "url": "https://pixeldrain.net/api/file/asQhcZw6?download"
+      },
+      {
+        "episode_num": 14,
+        "file_id": "4n65LvSg",
+        "file_name": "[One Pace][726-727] Dressrosa 14 [720p][En Sub][6FA5FB49].mp4",
+        "size": 225432127,
+        "url": "https://pixeldrain.net/api/file/4n65LvSg?download"
+      },
+      {
+        "episode_num": 15,
+        "file_id": "kA1tNQRw",
+        "file_name": "[One Pace][728-729] Dressrosa 15 [720p][En Sub][6E5370E2].mp4",
+        "size": 184548239,
+        "url": "https://pixeldrain.net/api/file/kA1tNQRw?download"
+      },
+      {
+        "episode_num": 16,
+        "file_id": "MTtJWu13",
+        "file_name": "[One Pace][730-731] Dressrosa 16 [720p][En Sub][1A5EE8FD].mp4",
+        "size": 226793425,
+        "url": "https://pixeldrain.net/api/file/MTtJWu13?download"
+      },
+      {
+        "episode_num": 17,
+        "file_id": "WwgaVXBm",
+        "file_name": "[One Pace][732-733] Dressrosa 17 [720p][En Sub][9E45304D].mp4",
+        "size": 198167089,
+        "url": "https://pixeldrain.net/api/file/WwgaVXBm?download"
+      },
+      {
+        "episode_num": 18,
+        "file_id": "3sUXfAG1",
+        "file_name": "[One Pace][734-735] Dressrosa 18 [720p][En Sub][F93EB4A3].mp4",
+        "size": 216334506,
+        "url": "https://pixeldrain.net/api/file/3sUXfAG1?download"
+      },
+      {
+        "episode_num": 19,
+        "file_id": "w6Ur8vnS",
+        "file_name": "[One Pace][736-737] Dressrosa 19 [720p][En Sub][312E1919].mp4",
+        "size": 191992176,
+        "url": "https://pixeldrain.net/api/file/w6Ur8vnS?download"
+      },
+      {
+        "episode_num": 20,
+        "file_id": "VbxY7Uu7",
+        "file_name": "[One Pace][738-739] Dressrosa 20 [720p][En Sub][8046831D].mp4",
+        "size": 193609169,
+        "url": "https://pixeldrain.net/api/file/VbxY7Uu7?download"
+      },
+      {
+        "episode_num": 21,
+        "file_id": "NGc4gF85",
+        "file_name": "[One Pace][740-741] Dressrosa 21 [720p][En Sub][68D2A4AD].mp4",
+        "size": 202251596,
+        "url": "https://pixeldrain.net/api/file/NGc4gF85?download"
+      },
+      {
+        "episode_num": 22,
+        "file_id": "cGoF3ZwW",
+        "file_name": "[One Pace][742-743] Dressrosa 22 [720p][En Sub][05E242E2].mp4",
+        "size": 235526668,
+        "url": "https://pixeldrain.net/api/file/cGoF3ZwW?download"
+      },
+      {
+        "episode_num": 23,
+        "file_id": "2SV7CUzu",
+        "file_name": "[One Pace][744-745] Dressrosa 23 [720p][En Sub][A439796A].mp4",
+        "size": 232495629,
+        "url": "https://pixeldrain.net/api/file/2SV7CUzu?download"
+      },
+      {
+        "episode_num": 24,
+        "file_id": "NFmuP5CJ",
+        "file_name": "[One Pace][746-747] Dressrosa 24 [720p][En Sub][EB3D2355].mp4",
+        "size": 216070512,
+        "url": "https://pixeldrain.net/api/file/NFmuP5CJ?download"
+      },
+      {
+        "episode_num": 25,
+        "file_id": "MsuEnkb1",
+        "file_name": "[One Pace][748-749] Dressrosa 25 [720p][En Sub][35F05ABA].mp4",
+        "size": 232228252,
+        "url": "https://pixeldrain.net/api/file/MsuEnkb1?download"
+      },
+      {
+        "episode_num": 26,
+        "file_id": "k1pAk3zs",
+        "file_name": "[One Pace][750-751] Dressrosa 26 [720p][En Sub][BC3FC2C4].mp4",
+        "size": 239701114,
+        "url": "https://pixeldrain.net/api/file/k1pAk3zs?download"
+      },
+      {
+        "episode_num": 27,
+        "file_id": "6w69hWY5",
+        "file_name": "[One Pace][752-753] Dressrosa 27 [720p][En Sub][5EB211DC].mp4",
+        "size": 248058162,
+        "url": "https://pixeldrain.net/api/file/6w69hWY5?download"
+      },
+      {
+        "episode_num": 28,
+        "file_id": "MUNifTCQ",
+        "file_name": "[One Pace][754-755] Dressrosa 28 [720p][En Sub][0FB24CA0].mp4",
+        "size": 247591006,
+        "url": "https://pixeldrain.net/api/file/MUNifTCQ?download"
+      },
+      {
+        "episode_num": 29,
+        "file_id": "tXXkzJii",
+        "file_name": "[One Pace][756-757] Dressrosa 29 [720p][En Sub][647D7FB1].mp4",
+        "size": 252872689,
+        "url": "https://pixeldrain.net/api/file/tXXkzJii?download"
+      },
+      {
+        "episode_num": 30,
+        "file_id": "Q7pcKSxc",
+        "file_name": "[One Pace][758-759] Dressrosa 30 [720p][En Sub][4263E59A].mp4",
+        "size": 199173713,
+        "url": "https://pixeldrain.net/api/file/Q7pcKSxc?download"
+      },
+      {
+        "episode_num": 31,
+        "file_id": "7CxM1CKN",
+        "file_name": "[One Pace][760-761] Dressrosa 31 [720p][En Sub][003364EA].mp4",
+        "size": 202820973,
+        "url": "https://pixeldrain.net/api/file/7CxM1CKN?download"
+      },
+      {
+        "episode_num": 32,
+        "file_id": "jPw2JtYt",
+        "file_name": "[One Pace][762-763] Dressrosa 32 [720p][En Sub][CD31A518].mp4",
+        "size": 232683767,
+        "url": "https://pixeldrain.net/api/file/jPw2JtYt?download"
+      },
+      {
+        "episode_num": 33,
+        "file_id": "MFWQveLj",
+        "file_name": "[One Pace][764-765] Dressrosa 33 [720p][En Sub][ACA0EC52].mp4",
+        "size": 248077664,
+        "url": "https://pixeldrain.net/api/file/MFWQveLj?download"
+      },
+      {
+        "episode_num": 34,
+        "file_id": "QBYNHPZ6",
+        "file_name": "[One Pace][766-767] Dressrosa 34 [720p][En Sub][4259B0B2].mp4",
+        "size": 264021583,
+        "url": "https://pixeldrain.net/api/file/QBYNHPZ6?download"
+      },
+      {
+        "episode_num": 35,
+        "file_id": "JhB3PGLM",
+        "file_name": "[One Pace][768-769] Dressrosa 35 [720p][En Sub][17097495].mp4",
+        "size": 217876118,
+        "url": "https://pixeldrain.net/api/file/JhB3PGLM?download"
+      },
+      {
+        "episode_num": 36,
+        "file_id": "Q6HT3CzM",
+        "file_name": "[One Pace][770-771] Dressrosa 36 [720p][En Sub][856D05C9].mp4",
+        "size": 258253986,
+        "url": "https://pixeldrain.net/api/file/Q6HT3CzM?download"
+      },
+      {
+        "episode_num": 37,
+        "file_id": "hQeDbGTr",
+        "file_name": "[One Pace][772-773] Dressrosa 37 [720p][En Sub][06DA8FCF].mp4",
+        "size": 262295961,
+        "url": "https://pixeldrain.net/api/file/hQeDbGTr?download"
+      },
+      {
+        "episode_num": 38,
+        "file_id": "YCgr8ZAM",
+        "file_name": "[One Pace][774-775] Dressrosa 38 [720p][En Sub][556B7EAB].mp4",
+        "size": 264721763,
+        "url": "https://pixeldrain.net/api/file/YCgr8ZAM?download"
+      },
+      {
+        "episode_num": 39,
+        "file_id": "W4VLxdSo",
+        "file_name": "[One Pace][776-778] Dressrosa 39 [720p][En Sub][7ACAF3C0].mp4",
+        "size": 465994098,
+        "url": "https://pixeldrain.net/api/file/W4VLxdSo?download"
+      },
+      {
+        "episode_num": 40,
+        "file_id": "umq1yZx4",
+        "file_name": "[One Pace][779-781] Dressrosa 40 [720p][En Sub][3C9A0696].mp4",
+        "size": 367965578,
+        "url": "https://pixeldrain.net/api/file/umq1yZx4?download"
+      },
+      {
+        "episode_num": 41,
+        "file_id": "6emi7i54",
+        "file_name": "[One Pace][782-783] Dressrosa 41 [720p][En Sub][CEB5BCF2].mp4",
+        "size": 277859680,
+        "url": "https://pixeldrain.net/api/file/6emi7i54?download"
+      },
+      {
+        "episode_num": 42,
+        "file_id": "fkTdFzav",
+        "file_name": "[One Pace][784-785] Dressrosa 42 [720p][En Sub][430660CE].mp4",
+        "size": 323469412,
+        "url": "https://pixeldrain.net/api/file/fkTdFzav?download"
+      },
+      {
+        "episode_num": 43,
+        "file_id": "nsTjaeu5",
+        "file_name": "[One Pace][786-787] Dressrosa 43 [720p][En Sub][A9A9FBCA].mp4",
+        "size": 293562004,
+        "url": "https://pixeldrain.net/api/file/nsTjaeu5?download"
+      },
+      {
+        "episode_num": 44,
+        "file_id": "Q7HcoU9a",
+        "file_name": "[One Pace][788-790] Dressrosa 44 [720p][En Sub][9D40E1AF].mp4",
+        "size": 394125586,
+        "url": "https://pixeldrain.net/api/file/Q7HcoU9a?download"
+      },
+      {
+        "episode_num": 45,
+        "file_id": "dYAVxHSX",
+        "file_name": "[One Pace][791-793] Dressrosa 45 [720p][En Sub][A1D528CA].mp4",
+        "size": 324348349,
+        "url": "https://pixeldrain.net/api/file/dYAVxHSX?download"
+      },
+      {
+        "episode_num": 46,
+        "file_id": "r7Hj2QvB",
+        "file_name": "[One Pace][794-795] Dressrosa 46 [720p][En Sub][4FB96535].mp4",
+        "size": 306624557,
+        "url": "https://pixeldrain.net/api/file/r7Hj2QvB?download"
+      },
+      {
+        "episode_num": 47,
+        "file_id": "vwYqypPV",
+        "file_name": "[One Pace][796-797] Dressrosa 47 [720p][En Sub][63462913].mp4",
+        "size": 303806349,
+        "url": "https://pixeldrain.net/api/file/vwYqypPV?download"
+      },
+      {
+        "episode_num": 48,
+        "file_id": "xQk8oZJN",
+        "file_name": "[One Pace][798-800] Dressrosa 48 [720p][En Sub][379B8B13].mp4",
+        "size": 370035790,
+        "url": "https://pixeldrain.net/api/file/xQk8oZJN?download"
+      }
+    ]
+  },
+  {
+    "slug": "zou",
+    "title": "Zou",
+    "special": false,
+    "playlist_id": "nSkEY2Cq",
+    "resolution": 720,
+    "sub": "en",
+    "dub": "ja",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "LDutwCsx",
+        "file_name": "[One Pace][801-803] Zou 01 [720p][En Sub][BE833B49].mp4",
+        "size": 269851005,
+        "url": "https://pixeldrain.net/api/file/LDutwCsx?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "pa9F4Acz",
+        "file_name": "[One Pace][804-805] Zou 02 [720p][En Sub][A7803343].mp4",
+        "size": 176166666,
+        "url": "https://pixeldrain.net/api/file/pa9F4Acz?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "7itofJih",
+        "file_name": "[One Pace][806-807] Zou 03 [720p][En Sub][F8BEDC2A].mp4",
+        "size": 220685599,
+        "url": "https://pixeldrain.net/api/file/7itofJih?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "onwavXRf",
+        "file_name": "[One Pace][808-809] Zou 04 [720p][En Sub][34C51F93].mp4",
+        "size": 204877487,
+        "url": "https://pixeldrain.net/api/file/onwavXRf?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "sqBRE1CN",
+        "file_name": "[One Pace][810-811] Zou 05 [720p][En Sub][9836B0DB].mp4",
+        "size": 372181185,
+        "url": "https://pixeldrain.net/api/file/sqBRE1CN?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "EM7r3vqQ",
+        "file_name": "[One Pace][812-813] Zou 06 [720p][En Sub][BBEC730F].mp4",
+        "size": 229581244,
+        "url": "https://pixeldrain.net/api/file/EM7r3vqQ?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "LnikrjAw",
+        "file_name": "[One Pace][814-815] Zou 07 [720p][En Sub][7EA3E7FC].mp4",
+        "size": 253451857,
+        "url": "https://pixeldrain.net/api/file/LnikrjAw?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "S6HPfkHz",
+        "file_name": "[One Pace][816-817] Zou 08 [720p][En Sub][833CADDF].mp4",
+        "size": 242210600,
+        "url": "https://pixeldrain.net/api/file/S6HPfkHz?download"
+      },
+      {
+        "episode_num": 9,
+        "file_id": "8H1LeS7R",
+        "file_name": "[One Pace][818-819] Zou 09 [720p][En Sub][A900C93D].mp4",
+        "size": 217773790,
+        "url": "https://pixeldrain.net/api/file/8H1LeS7R?download"
+      },
+      {
+        "episode_num": 10,
+        "file_id": "k7xeRSEG",
+        "file_name": "[One Pace][820-822] Zou 10 [720p][En Sub][A667E2B2].mp4",
+        "size": 444796392,
+        "url": "https://pixeldrain.net/api/file/k7xeRSEG?download"
+      }
+    ]
+  },
+  {
+    "slug": "whole-cake-island",
+    "title": "Whole Cake Island",
+    "special": false,
+    "playlist_id": "phsTwRmF",
+    "resolution": 720,
+    "sub": "en",
+    "dub": "ja",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "AtbToeq9",
+        "file_name": "[One Pace][823-824] Whole Cake Island 01 [720p][En Sub][DDFFA218].mp4",
+        "size": 277878774,
+        "url": "https://pixeldrain.net/api/file/AtbToeq9?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "rbtYG9KQ",
+        "file_name": "[One Pace][825-826] Whole Cake Island 02 [720p][En Sub][E1E43678].mp4",
+        "size": 284614564,
+        "url": "https://pixeldrain.net/api/file/rbtYG9KQ?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "23HKVhrG",
+        "file_name": "[One Pace][827-828] Whole Cake Island 03 [720p][En Sub][AD07D0FE].mp4",
+        "size": 239862009,
+        "url": "https://pixeldrain.net/api/file/23HKVhrG?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "cp7EUW5w",
+        "file_name": "[One Pace][829-830] Whole Cake Island 04 [720p][En Sub][F7ECC7B1].mp4",
+        "size": 284688386,
+        "url": "https://pixeldrain.net/api/file/cp7EUW5w?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "6TtCN8vW",
+        "file_name": "[One Pace][831-832] Whole Cake Island 05 [720p][En Sub][EA15E011].mp4",
+        "size": 297147062,
+        "url": "https://pixeldrain.net/api/file/6TtCN8vW?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "DGhn5qpn",
+        "file_name": "[One Pace][833-834] Whole Cake Island 06 [720p][En Sub][354E8FB1].mp4",
+        "size": 277869474,
+        "url": "https://pixeldrain.net/api/file/DGhn5qpn?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "heVZApgg",
+        "file_name": "[One Pace][835-836] Whole Cake Island 07 [720p][En Sub][579698D3].mp4",
+        "size": 314854272,
+        "url": "https://pixeldrain.net/api/file/heVZApgg?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "Ac8kND3N",
+        "file_name": "[One Pace][837-838] Whole Cake Island 08 [720p][En Sub][B695AC02].mp4",
+        "size": 282654722,
+        "url": "https://pixeldrain.net/api/file/Ac8kND3N?download"
+      },
+      {
+        "episode_num": 9,
+        "file_id": "KBuyWju7",
+        "file_name": "[One Pace][839-840] Whole Cake Island 09 [720p][En Sub][D6B75D34].mp4",
+        "size": 250714419,
+        "url": "https://pixeldrain.net/api/file/KBuyWju7?download"
+      },
+      {
+        "episode_num": 10,
+        "file_id": "N8JXdgtb",
+        "file_name": "[One Pace][841-842] Whole Cake Island 10 [720p][En Sub][D44753C0].mp4",
+        "size": 304227675,
+        "url": "https://pixeldrain.net/api/file/N8JXdgtb?download"
+      },
+      {
+        "episode_num": 11,
+        "file_id": "4BWtBR6J",
+        "file_name": "[One Pace][843-844] Whole Cake Island 11 [720p][En Sub][E5C1D84E].mp4",
+        "size": 412902356,
+        "url": "https://pixeldrain.net/api/file/4BWtBR6J?download"
+      },
+      {
+        "episode_num": 12,
+        "file_id": "6dDWx8uw",
+        "file_name": "[One Pace][845-846] Whole Cake Island 12 [720p][En Sub][109D56E0].mp4",
+        "size": 294129013,
+        "url": "https://pixeldrain.net/api/file/6dDWx8uw?download"
+      },
+      {
+        "episode_num": 13,
+        "file_id": "JpB5VJrJ",
+        "file_name": "[One Pace][847-848] Whole Cake Island 13 [720p][En Sub][84C88C9C].mp4",
+        "size": 258168517,
+        "url": "https://pixeldrain.net/api/file/JpB5VJrJ?download"
+      },
+      {
+        "episode_num": 14,
+        "file_id": "Hnank5J3",
+        "file_name": "[One Pace][849-850] Whole Cake Island 14 [720p][En Sub][62FEE4C1].mp4",
+        "size": 324038635,
+        "url": "https://pixeldrain.net/api/file/Hnank5J3?download"
+      },
+      {
+        "episode_num": 15,
+        "file_id": "pg6JAfnS",
+        "file_name": "[One Pace][851-852] Whole Cake Island 15 [720p][En Sub][5C5A04C0].mp4",
+        "size": 265353118,
+        "url": "https://pixeldrain.net/api/file/pg6JAfnS?download"
+      },
+      {
+        "episode_num": 16,
+        "file_id": "s8HdNfQN",
+        "file_name": "[One Pace][853-854] Whole Cake Island 16 [720p][En Sub][ABC22BDE].mp4",
+        "size": 244894686,
+        "url": "https://pixeldrain.net/api/file/s8HdNfQN?download"
+      },
+      {
+        "episode_num": 17,
+        "file_id": "dTyfqaPF",
+        "file_name": "[One Pace][855-856] Whole Cake Island 17 [720p][En Sub][A1353FE8].mp4",
+        "size": 305496982,
+        "url": "https://pixeldrain.net/api/file/dTyfqaPF?download"
+      },
+      {
+        "episode_num": 18,
+        "file_id": "MWKFwwKq",
+        "file_name": "[One Pace][857-858] Whole Cake Island 18 [720p][En Sub][9DE237E8].mp4",
+        "size": 265384556,
+        "url": "https://pixeldrain.net/api/file/MWKFwwKq?download"
+      },
+      {
+        "episode_num": 19,
+        "file_id": "jAaSRGtL",
+        "file_name": "[One Pace][859-860] Whole Cake Island 19 [720p][En Sub][1F9C62FC].mp4",
+        "size": 309817620,
+        "url": "https://pixeldrain.net/api/file/jAaSRGtL?download"
+      },
+      {
+        "episode_num": 20,
+        "file_id": "b6G7TR82",
+        "file_name": "[One Pace][861-862] Whole Cake Island 20 [720p][En Sub][71EFBB1E].mp4",
+        "size": 243673299,
+        "url": "https://pixeldrain.net/api/file/b6G7TR82?download"
+      },
+      {
+        "episode_num": 21,
+        "file_id": "PUFhHY1b",
+        "file_name": "[One Pace][863-864] Whole Cake Island 21 [720p][En Sub][EBCD8857].mp4",
+        "size": 319426720,
+        "url": "https://pixeldrain.net/api/file/PUFhHY1b?download"
+      },
+      {
+        "episode_num": 22,
+        "file_id": "Mz2NvgSt",
+        "file_name": "[One Pace][865-866] Whole Cake Island 22 [720p][En Sub][ED56F002].mp4",
+        "size": 276389705,
+        "url": "https://pixeldrain.net/api/file/Mz2NvgSt?download"
+      },
+      {
+        "episode_num": 23,
+        "file_id": "Znhh7QSi",
+        "file_name": "[One Pace][867-868] Whole Cake Island 23 [720p][En Sub][A0874C36].mp4",
+        "size": 363410285,
+        "url": "https://pixeldrain.net/api/file/Znhh7QSi?download"
+      },
+      {
+        "episode_num": 24,
+        "file_id": "qqLAwLt5",
+        "file_name": "[One Pace][869-870] Whole Cake Island 24 [720p][En Sub][3FDCF23E].mp4",
+        "size": 343207580,
+        "url": "https://pixeldrain.net/api/file/qqLAwLt5?download"
+      },
+      {
+        "episode_num": 25,
+        "file_id": "gLdnvdHf",
+        "file_name": "[One Pace][870-872] Whole Cake Island 25 [720p][En Sub][B6137794].mp4",
+        "size": 367717833,
+        "url": "https://pixeldrain.net/api/file/gLdnvdHf?download"
+      },
+      {
+        "episode_num": 26,
+        "file_id": "bKY1VkED",
+        "file_name": "[One Pace][873-874] Whole Cake Island 26 [720p][En Sub][7DD29A65].mp4",
+        "size": 315993222,
+        "url": "https://pixeldrain.net/api/file/bKY1VkED?download"
+      },
+      {
+        "episode_num": 27,
+        "file_id": "kkJBds74",
+        "file_name": "[One Pace][875-876] Whole Cake Island 27 [720p][En Sub][E61F8FC5].mp4",
+        "size": 372296287,
+        "url": "https://pixeldrain.net/api/file/kkJBds74?download"
+      },
+      {
+        "episode_num": 28,
+        "file_id": "Hx6LohGt",
+        "file_name": "[One Pace][877-878] Whole Cake Island 28 [720p][En Sub][0CF1E47B].mp4",
+        "size": 281130941,
+        "url": "https://pixeldrain.net/api/file/Hx6LohGt?download"
+      },
+      {
+        "episode_num": 29,
+        "file_id": "pShRnKxZ",
+        "file_name": "[One Pace][879-880] Whole Cake Island 29 [720p][En Sub][72B51BA7].mp4",
+        "size": 269382055,
+        "url": "https://pixeldrain.net/api/file/pShRnKxZ?download"
+      },
+      {
+        "episode_num": 30,
+        "file_id": "DgzazTiH",
+        "file_name": "[One Pace][881-883] Whole Cake Island 30 [720p][En Sub][81729EBE].mp4",
+        "size": 276192650,
+        "url": "https://pixeldrain.net/api/file/DgzazTiH?download"
+      },
+      {
+        "episode_num": 31,
+        "file_id": "vDMkTr7q",
+        "file_name": "[One Pace][883-884] Whole Cake Island 31 [720p][En Sub][27D49E4A].mp4",
+        "size": 316878714,
+        "url": "https://pixeldrain.net/api/file/vDMkTr7q?download"
+      },
+      {
+        "episode_num": 32,
+        "file_id": "QEa2gRZM",
+        "file_name": "[One Pace][885-886] Whole Cake Island 32 [720p][En Sub][D81A1DC9].mp4",
+        "size": 304126722,
+        "url": "https://pixeldrain.net/api/file/QEa2gRZM?download"
+      },
+      {
+        "episode_num": 33,
+        "file_id": "tMhdYBeh",
+        "file_name": "[One Pace][887-888] Whole Cake Island 33 [720p][En Sub][50E2E2EF].mp4",
+        "size": 267149800,
+        "url": "https://pixeldrain.net/api/file/tMhdYBeh?download"
+      },
+      {
+        "episode_num": 34,
+        "file_id": "8D7jrGC2",
+        "file_name": "[One Pace][889-891] Whole Cake Island 34 [720p][En Sub][A9B120E7].mp4",
+        "size": 350109760,
+        "url": "https://pixeldrain.net/api/file/8D7jrGC2?download"
+      },
+      {
+        "episode_num": 35,
+        "file_id": "PKwUwKok",
+        "file_name": "[One Pace][891-893] Whole Cake Island 35 [720p][En Sub][8D28F8A9].mp4",
+        "size": 307244247,
+        "url": "https://pixeldrain.net/api/file/PKwUwKok?download"
+      },
+      {
+        "episode_num": 36,
+        "file_id": "YNmwipRn",
+        "file_name": "[One Pace][892-895] Whole Cake Island 36 [720p][En Sub][14D2B04B].mp4",
+        "size": 362408128,
+        "url": "https://pixeldrain.net/api/file/YNmwipRn?download"
+      },
+      {
+        "episode_num": 37,
+        "file_id": "k28mx8Lr",
+        "file_name": "[One Pace][896-897] Whole Cake Island 37 [720p][En Sub][AAF3C7E1].mp4",
+        "size": 193552356,
+        "url": "https://pixeldrain.net/api/file/k28mx8Lr?download"
+      },
+      {
+        "episode_num": 38,
+        "file_id": "k32mbPdc",
+        "file_name": "[One Pace][898-900] Whole Cake Island 38 [720p][En Sub][05A48A94].mp4",
+        "size": 372720839,
+        "url": "https://pixeldrain.net/api/file/k32mbPdc?download"
+      },
+      {
+        "episode_num": 39,
+        "file_id": "4RmueEtk",
+        "file_name": "[One Pace][901-902] Whole Cake Island 39 [720p][En Sub][2D4A4B98].mp4",
+        "size": 251908650,
+        "url": "https://pixeldrain.net/api/file/4RmueEtk?download"
+      }
+    ]
+  },
+  {
+    "slug": "reverie",
+    "title": "Reverie",
+    "special": false,
+    "playlist_id": "Cp4KrdKb",
+    "resolution": 1080,
+    "sub": "",
+    "dub": "en",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "k9TAcApV",
+        "file_name": "[One Pace][903-904] Reverie 01 [1080p][En Dub][1A130AB3].mp4",
+        "size": 389546499,
+        "url": "https://pixeldrain.net/api/file/k9TAcApV?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "XTYkykTo",
+        "file_name": "[One Pace][905-906] Reverie 02 [1080p][En Dub][07AF43C1].mp4",
+        "size": 412249019,
+        "url": "https://pixeldrain.net/api/file/XTYkykTo?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "7N72un1a",
+        "file_name": "[One Pace][907-908] Reverie 03 [1080p][En Dub][423FD248].mp4",
+        "size": 301754622,
+        "url": "https://pixeldrain.net/api/file/7N72un1a?download"
+      }
+    ]
+  },
+  {
+    "slug": "wano",
+    "title": "Wano",
+    "special": false,
+    "playlist_id": "Bpo6EuXK",
+    "resolution": 1080,
+    "sub": "",
+    "dub": "en",
+    "variant": "extended",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "LMSmTxDn",
+        "file_name": "[One Pace][909-910] Wano 01 [1080p][En Dub][0B191301].mp4",
+        "size": 419204207,
+        "url": "https://pixeldrain.net/api/file/LMSmTxDn?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "oWvoEdGw",
+        "file_name": "[One Pace][909-911] Wano 02 Extended [1080p][En Dub][8C61BA97].mp4",
+        "size": 675553257,
+        "url": "https://pixeldrain.net/api/file/oWvoEdGw?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "gc6YnZSs",
+        "file_name": "[One Pace][911-912] Wano 03 [1080p][En Dub][BED301F5].mp4",
+        "size": 696968319,
+        "url": "https://pixeldrain.net/api/file/gc6YnZSs?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "QP29aCmT",
+        "file_name": "[One Pace][913] Wano 04 [1080p][En Dub][7A4D47F3].mp4",
+        "size": 405759673,
+        "url": "https://pixeldrain.net/api/file/QP29aCmT?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "3MwAPs3g",
+        "file_name": "[One Pace][914-915] Wano 05 [720p][En Sub][35808681].mp4",
+        "size": 327084311,
+        "url": "https://pixeldrain.net/api/file/3MwAPs3g?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "EYp867i6",
+        "file_name": "[One Pace][915-916] Wano 06 [720p][En Sub][B60503EC].mp4",
+        "size": 293879417,
+        "url": "https://pixeldrain.net/api/file/EYp867i6?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "HpHy5fjr",
+        "file_name": "[One Pace][916-917] Wano 07 [720p][En Sub][8C6C4D67].mp4",
+        "size": 306670247,
+        "url": "https://pixeldrain.net/api/file/HpHy5fjr?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "6EZ9jwZ4",
+        "file_name": "[One Pace][918-919] Wano 08 [720p][En Sub][26A3A69E].mp4",
+        "size": 371988437,
+        "url": "https://pixeldrain.net/api/file/6EZ9jwZ4?download"
+      },
+      {
+        "episode_num": 9,
+        "file_id": "hXhVKPW3",
+        "file_name": "[One Pace][919-920] Wano 09 [720p][En Sub][EA3160D3].mp4",
+        "size": 449618403,
+        "url": "https://pixeldrain.net/api/file/hXhVKPW3?download"
+      },
+      {
+        "episode_num": 10,
+        "file_id": "GAXDLFev",
+        "file_name": "[One Pace][921-922] Wano 10 [720p][En Sub][2FD45874].mp4",
+        "size": 411106735,
+        "url": "https://pixeldrain.net/api/file/GAXDLFev?download"
+      },
+      {
+        "episode_num": 11,
+        "file_id": "QEtDvqWt",
+        "file_name": "[One Pace][922-923] Wano 11 [720p][En Sub][E24C5D4D].mp4",
+        "size": 319490331,
+        "url": "https://pixeldrain.net/api/file/QEtDvqWt?download"
+      },
+      {
+        "episode_num": 12,
+        "file_id": "A3gHZH5v",
+        "file_name": "[One Pace][924] Wano 12 [720p][En Sub][4644FDB1].mp4",
+        "size": 205523517,
+        "url": "https://pixeldrain.net/api/file/A3gHZH5v?download"
+      },
+      {
+        "episode_num": 13,
+        "file_id": "DKwEye4n",
+        "file_name": "[One Pace][925-926] Wano 13 [720p][En Sub][CD9A79B7].mp4",
+        "size": 325457976,
+        "url": "https://pixeldrain.net/api/file/DKwEye4n?download"
+      },
+      {
+        "episode_num": 14,
+        "file_id": "yTt5wMtZ",
+        "file_name": "[One Pace][926-927] Wano 14 [720p][En Sub][6CEC7F88].mp4",
+        "size": 328451561,
+        "url": "https://pixeldrain.net/api/file/yTt5wMtZ?download"
+      },
+      {
+        "episode_num": 15,
+        "file_id": "7HRZbucn",
+        "file_name": "[One Pace][928-930] Wano 15 [720p][En Sub][83E90634].mp4",
+        "size": 310081912,
+        "url": "https://pixeldrain.net/api/file/7HRZbucn?download"
+      },
+      {
+        "episode_num": 16,
+        "file_id": "TxAXDgni",
+        "file_name": "[One Pace][930-931] Wano 16 [720p][En Sub][078EBE20].mp4",
+        "size": 330705018,
+        "url": "https://pixeldrain.net/api/file/TxAXDgni?download"
+      },
+      {
+        "episode_num": 17,
+        "file_id": "YMd41o25",
+        "file_name": "[One Pace][932-933] Wano 17 [720p][En Sub][77945356].mp4",
+        "size": 364419703,
+        "url": "https://pixeldrain.net/api/file/YMd41o25?download"
+      },
+      {
+        "episode_num": 18,
+        "file_id": "EiNRj6Lc",
+        "file_name": "[One Pace][934-935] Wano 18 [720p][En Sub][3B92F38C].mp4",
+        "size": 306228045,
+        "url": "https://pixeldrain.net/api/file/EiNRj6Lc?download"
+      },
+      {
+        "episode_num": 19,
+        "file_id": "Xdb7qGdC",
+        "file_name": "[One Pace][936-938] Wano 19 [720p][En Sub][DF73D8A6].mp4",
+        "size": 415615004,
+        "url": "https://pixeldrain.net/api/file/Xdb7qGdC?download"
+      },
+      {
+        "episode_num": 20,
+        "file_id": "6B4qMCZt",
+        "file_name": "[One Pace][938-939] Wano 20 [720p][En Sub][2519F14E].mp4",
+        "size": 267342421,
+        "url": "https://pixeldrain.net/api/file/6B4qMCZt?download"
+      },
+      {
+        "episode_num": 21,
+        "file_id": "94JVDAbd",
+        "file_name": "[One Pace][940-941] Wano 21 [720p][En Sub][6E478A4D].mp4",
+        "size": 263188730,
+        "url": "https://pixeldrain.net/api/file/94JVDAbd?download"
+      },
+      {
+        "episode_num": 22,
+        "file_id": "WUNKh9jk",
+        "file_name": "[One Pace][941-942] Wano 22 [720p][En Sub][3370C5D8].mp4",
+        "size": 268806460,
+        "url": "https://pixeldrain.net/api/file/WUNKh9jk?download"
+      },
+      {
+        "episode_num": 23,
+        "file_id": "L816zVAd",
+        "file_name": "[One Pace][943-944] Wano 23 [720p][En Sub][1D53CB3C].mp4",
+        "size": 369366292,
+        "url": "https://pixeldrain.net/api/file/L816zVAd?download"
+      },
+      {
+        "episode_num": 24,
+        "file_id": "5eAJ3Ltz",
+        "file_name": "[One Pace][944-945] Wano 24 [720p][En Sub][33E33497].mp4",
+        "size": 242204772,
+        "url": "https://pixeldrain.net/api/file/5eAJ3Ltz?download"
+      },
+      {
+        "episode_num": 25,
+        "file_id": "ux87TsZc",
+        "file_name": "[One Pace][946-947] Wano 25 [720p][En Sub][526F7D11].mp4",
+        "size": 353413611,
+        "url": "https://pixeldrain.net/api/file/ux87TsZc?download"
+      },
+      {
+        "episode_num": 26,
+        "file_id": "1J7mUks2",
+        "file_name": "[One Pace][948-949] Wano 26 [720p][En Sub][B07674C2].mp4",
+        "size": 328816251,
+        "url": "https://pixeldrain.net/api/file/1J7mUks2?download"
+      },
+      {
+        "episode_num": 27,
+        "file_id": "Yxr24fQu",
+        "file_name": "[One Pace][950-951] Wano 27 [720p][En Sub][D4AA0C62].mp4",
+        "size": 293273389,
+        "url": "https://pixeldrain.net/api/file/Yxr24fQu?download"
+      },
+      {
+        "episode_num": 28,
+        "file_id": "W3RVELQq",
+        "file_name": "[One Pace][951-952] Wano 28 [720p][En Sub][5B247B72].mp4",
+        "size": 277878051,
+        "url": "https://pixeldrain.net/api/file/W3RVELQq?download"
+      },
+      {
+        "episode_num": 29,
+        "file_id": "RNBzvn4P",
+        "file_name": "[One Pace][953-954] Wano 29 [720p][En Sub][BE320428].mp4",
+        "size": 246843741,
+        "url": "https://pixeldrain.net/api/file/RNBzvn4P?download"
+      },
+      {
+        "episode_num": 30,
+        "file_id": "2nJVFP11",
+        "file_name": "[One Pace][954-955] Wano 30 [720p][En Sub][FD4575BA].mp4",
+        "size": 256948357,
+        "url": "https://pixeldrain.net/api/file/2nJVFP11?download"
+      },
+      {
+        "episode_num": 31,
+        "file_id": "dtLNSmBs",
+        "file_name": "[One Pace][956] Wano 31 [720p][En Dub][EE120231].mp4",
+        "size": 247579698,
+        "url": "https://pixeldrain.net/api/file/dtLNSmBs?download"
+      },
+      {
+        "episode_num": 32,
+        "file_id": "rDmi21jD",
+        "file_name": "[One Pace][957] Wano 32 [720p][En Dub][2FD1BB37].mp4",
+        "size": 205460508,
+        "url": "https://pixeldrain.net/api/file/rDmi21jD?download"
+      },
+      {
+        "episode_num": 33,
+        "file_id": "Y4Apixyb",
+        "file_name": "[One Pace][958-959] Wano 33 [720p][En Dub][0B060BBC].mp4",
+        "size": 410751590,
+        "url": "https://pixeldrain.net/api/file/Y4Apixyb?download"
+      },
+      {
+        "episode_num": 34,
+        "file_id": "mNorEiRN",
+        "file_name": "[One Pace][960-961] Wano 34 [720p][En Dub][43993E91].mp4",
+        "size": 218419868,
+        "url": "https://pixeldrain.net/api/file/mNorEiRN?download"
+      },
+      {
+        "episode_num": 35,
+        "file_id": "FqbbU52H",
+        "file_name": "[One Pace][962-963] Wano 35 [720p][En Dub][A7E32599].mp4",
+        "size": 318334815,
+        "url": "https://pixeldrain.net/api/file/FqbbU52H?download"
+      },
+      {
+        "episode_num": 36,
+        "file_id": "r6yWNGqb",
+        "file_name": "[One Pace][964-965] Wano 36 [720p][En Dub][C04CA4A8].mp4",
+        "size": 272487451,
+        "url": "https://pixeldrain.net/api/file/r6yWNGqb?download"
+      },
+      {
+        "episode_num": 37,
+        "file_id": "dze4zHDM",
+        "file_name": "[One Pace][965-966] Wano 37 [720p][En Dub][E11BEABA].mp4",
+        "size": 345047987,
+        "url": "https://pixeldrain.net/api/file/dze4zHDM?download"
+      },
+      {
+        "episode_num": 38,
+        "file_id": "4XnsxJEa",
+        "file_name": "[One Pace][967] Wano 38 [720p][En Dub][86C8071C].mp4",
+        "size": 187113024,
+        "url": "https://pixeldrain.net/api/file/4XnsxJEa?download"
+      },
+      {
+        "episode_num": 39,
+        "file_id": "haJqw8yQ",
+        "file_name": "[One Pace][968-969] Wano 39 [720p][En Dub][6040DD3E].mp4",
+        "size": 335545987,
+        "url": "https://pixeldrain.net/api/file/haJqw8yQ?download"
+      },
+      {
+        "episode_num": 40,
+        "file_id": "Usn4fXut",
+        "file_name": "[One Pace][970-972] Wano 40 [1080p][En Dub][FCDF13EE].mp4",
+        "size": 1180030550,
+        "url": "https://pixeldrain.net/api/file/Usn4fXut?download"
+      },
+      {
+        "episode_num": 41,
+        "file_id": "Ug3nkXdy",
+        "file_name": "[One Pace][972-974] Wano 41 [1080p][En Dub][9CC6FD3B].mp4",
+        "size": 831250838,
+        "url": "https://pixeldrain.net/api/file/Ug3nkXdy?download"
+      },
+      {
+        "episode_num": 42,
+        "file_id": "wDkXF1Ay",
+        "file_name": "[One Pace][975-976] Wano 42 [1080p][En Dub][A9635F75].mp4",
+        "size": 885165738,
+        "url": "https://pixeldrain.net/api/file/wDkXF1Ay?download"
+      },
+      {
+        "episode_num": 43,
+        "file_id": "vr8153Sz",
+        "file_name": "[One Pace][977-978] Wano 43 [1080p][En Dub][462E20A9].mp4",
+        "size": 486416339,
+        "url": "https://pixeldrain.net/api/file/vr8153Sz?download"
+      },
+      {
+        "episode_num": 44,
+        "file_id": "ovDSCWQN",
+        "file_name": "[One Pace][978-979] Wano 44 [1080p][En Dub][72E77372].mp4",
+        "size": 420750017,
+        "url": "https://pixeldrain.net/api/file/ovDSCWQN?download"
+      },
+      {
+        "episode_num": 45,
+        "file_id": "gsdV8Bzf",
+        "file_name": "[One Pace][980-981] Wano 45 [1080p][En Dub][8928A135].mp4",
+        "size": 667839965,
+        "url": "https://pixeldrain.net/api/file/gsdV8Bzf?download"
+      },
+      {
+        "episode_num": 46,
+        "file_id": "U6ZyPaSP",
+        "file_name": "[One Pace][982-983] Wano 46 [1080p][En Dub][18FAFC01].mp4",
+        "size": 694388915,
+        "url": "https://pixeldrain.net/api/file/U6ZyPaSP?download"
+      },
+      {
+        "episode_num": 47,
+        "file_id": "ecBQqq6n",
+        "file_name": "[One Pace][984-985] Wano 47 [1080p][En Dub][61DE2123].mp4",
+        "size": 699748567,
+        "url": "https://pixeldrain.net/api/file/ecBQqq6n?download"
+      },
+      {
+        "episode_num": 48,
+        "file_id": "yrnbGExM",
+        "file_name": "[One Pace][986-987] Wano 48 [1080p][En Dub][7B7B3F68].mp4",
+        "size": 828412360,
+        "url": "https://pixeldrain.net/api/file/yrnbGExM?download"
+      },
+      {
+        "episode_num": 49,
+        "file_id": "S2E4nqYD",
+        "file_name": "[One Pace][988-989] Wano 49 Extended [1080p][En Dub][9619C7FE].mp4",
+        "size": 826679618,
+        "url": "https://pixeldrain.net/api/file/S2E4nqYD?download"
+      },
+      {
+        "episode_num": 50,
+        "file_id": "r27ZyQk6",
+        "file_name": "[One Pace][990-991] Wano 50 [1080p][En Dub][3BF7FFA6].mp4",
+        "size": 781847207,
+        "url": "https://pixeldrain.net/api/file/r27ZyQk6?download"
+      },
+      {
+        "episode_num": 51,
+        "file_id": "pGypGGA8",
+        "file_name": "[One Pace][992-993] Wano 51 [1080p][En Dub][DB53F809].mp4",
+        "size": 1030267730,
+        "url": "https://pixeldrain.net/api/file/pGypGGA8?download"
+      },
+      {
+        "episode_num": 52,
+        "file_id": "aKUp22bQ",
+        "file_name": "[One Pace][994-995] Wano 52 [1080p][En Dub][C7ECF718].mp4",
+        "size": 579597768,
+        "url": "https://pixeldrain.net/api/file/aKUp22bQ?download"
+      },
+      {
+        "episode_num": 53,
+        "file_id": "pbCbveKU",
+        "file_name": "[One Pace][996-997] Wano 53 [1080p][En Dub][9B72A464].mp4",
+        "size": 767176968,
+        "url": "https://pixeldrain.net/api/file/pbCbveKU?download"
+      },
+      {
+        "episode_num": 54,
+        "file_id": "AzaAjTrS",
+        "file_name": "[One Pace][998-999] Wano 54 [1080p][En Dub][59244188].mp4",
+        "size": 721277157,
+        "url": "https://pixeldrain.net/api/file/AzaAjTrS?download"
+      },
+      {
+        "episode_num": 55,
+        "file_id": "PxEe4MPa",
+        "file_name": "[One Pace][1000] Wano 55 Extended [1080p][En Dub][1FA2C908].mp4",
+        "size": 384262935,
+        "url": "https://pixeldrain.net/api/file/PxEe4MPa?download"
+      },
+      {
+        "episode_num": 56,
+        "file_id": "oS3oLTc1",
+        "file_name": "[One Pace][1001-1002] Wano 56 [1080p][En Dub][2FF00EA4].mp4",
+        "size": 754175874,
+        "url": "https://pixeldrain.net/api/file/oS3oLTc1?download"
+      },
+      {
+        "episode_num": 57,
+        "file_id": "ZnL4vfwQ",
+        "file_name": "[One Pace][1003-1004] Wano 57 [1080p][En Dub][03CC57B0].mp4",
+        "size": 667300575,
+        "url": "https://pixeldrain.net/api/file/ZnL4vfwQ?download"
+      },
+      {
+        "episode_num": 58,
+        "file_id": "sNKZ6zXX",
+        "file_name": "[One Pace][1005-1006] Wano 58 [1080p][En Dub][1DFBEEB5].mp4",
+        "size": 628753564,
+        "url": "https://pixeldrain.net/api/file/sNKZ6zXX?download"
+      },
+      {
+        "episode_num": 59,
+        "file_id": "BJdEfhTA",
+        "file_name": "[One Pace][1007-1008] Wano 59 [1080p][En Dub][59C3C987].mp4",
+        "size": 580236557,
+        "url": "https://pixeldrain.net/api/file/BJdEfhTA?download"
+      }
+    ]
+  },
+  {
+    "slug": "egghead",
+    "title": "Egghead",
+    "special": false,
+    "playlist_id": "BiCB3xar",
+    "resolution": 1080,
+    "sub": "",
+    "dub": "en",
+    "variant": "extended",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "HZ9VRHCV",
+        "file_name": "[One Pace][1058-1059] Egghead 01 [1080p][En Dub][3378130D].mp4",
+        "size": 333620890,
+        "url": "https://pixeldrain.net/api/file/HZ9VRHCV?download"
+      },
+      {
+        "episode_num": 2,
+        "file_id": "6dAAEysn",
+        "file_name": "[One Pace][1059-1060] Egghead 02 [1080p][En Dub][DDF51421].mp4",
+        "size": 410483982,
+        "url": "https://pixeldrain.net/api/file/6dAAEysn?download"
+      },
+      {
+        "episode_num": 3,
+        "file_id": "dViiCH7s",
+        "file_name": "[One Pace][1060-1061] Egghead 03 [1080p][En Dub][54FF15F9].mp4",
+        "size": 742099775,
+        "url": "https://pixeldrain.net/api/file/dViiCH7s?download"
+      },
+      {
+        "episode_num": 4,
+        "file_id": "QLxB65mK",
+        "file_name": "[One Pace][1062-1063] Egghead 04 [1080p][En Dub][D638B7DB].mp4",
+        "size": 585642917,
+        "url": "https://pixeldrain.net/api/file/QLxB65mK?download"
+      },
+      {
+        "episode_num": 5,
+        "file_id": "eWTZ5oqM",
+        "file_name": "[One Pace][1064-1065] Egghead 05 [1080p][En Dub][5028B03D].mp4",
+        "size": 606774658,
+        "url": "https://pixeldrain.net/api/file/eWTZ5oqM?download"
+      },
+      {
+        "episode_num": 6,
+        "file_id": "uxqFFfye",
+        "file_name": "[One Pace][1066] Egghead 06 [1080p][En Dub][4470EFD7].mp4",
+        "size": 298651899,
+        "url": "https://pixeldrain.net/api/file/uxqFFfye?download"
+      },
+      {
+        "episode_num": 7,
+        "file_id": "U5Wexonx",
+        "file_name": "[One Pace][1067-1068] Egghead 07 [1080p][En Dub][E232D0C8].mp4",
+        "size": 533267159,
+        "url": "https://pixeldrain.net/api/file/U5Wexonx?download"
+      },
+      {
+        "episode_num": 8,
+        "file_id": "tqUzTiqy",
+        "file_name": "[One Pace][1069-1070] Egghead 08 Extended [1080p][En Dub][74B75254].mp4",
+        "size": 898245495,
+        "url": "https://pixeldrain.net/api/file/tqUzTiqy?download"
+      },
+      {
+        "episode_num": 9,
+        "file_id": "npXzq1ea",
+        "file_name": "[One Pace][1071-1072] Egghead 09 [1080p][En Dub][EC8ADEE1].mp4",
+        "size": 620357037,
+        "url": "https://pixeldrain.net/api/file/npXzq1ea?download"
+      },
+      {
+        "episode_num": 10,
+        "file_id": "6ybBnKdw",
+        "file_name": "[One Pace][1073-1074] Egghead 10 [1080p][En Dub][CEAD563F].mp4",
+        "size": 591091205,
+        "url": "https://pixeldrain.net/api/file/6ybBnKdw?download"
+      },
+      {
+        "episode_num": 11,
+        "file_id": "kHLnuMfV",
+        "file_name": "[One Pace][1075-1076] Egghead 11 [1080p][En Dub][CCA60084].mp4",
+        "size": 576746744,
+        "url": "https://pixeldrain.net/api/file/kHLnuMfV?download"
+      },
+      {
+        "episode_num": 12,
+        "file_id": "iCLnzB7x",
+        "file_name": "[One Pace][1077-1078] Egghead 12 [1080p][En Dub][A7C45BD2].mp4",
+        "size": 585677460,
+        "url": "https://pixeldrain.net/api/file/iCLnzB7x?download"
+      },
+      {
+        "episode_num": 13,
+        "file_id": "pEtBvN7g",
+        "file_name": "[One Pace][1079] Egghead 13 Extended [1080p][En Dub][4951F9D4].mp4",
+        "size": 431123679,
+        "url": "https://pixeldrain.net/api/file/pEtBvN7g?download"
+      },
+      {
+        "episode_num": 14,
+        "file_id": "GfwwxsJm",
+        "file_name": "[One Pace][1080-1081] Egghead 14 Extended [1080p][En Dub][F6D4EF61].mp4",
+        "size": 881200483,
+        "url": "https://pixeldrain.net/api/file/GfwwxsJm?download"
+      },
+      {
+        "episode_num": 15,
+        "file_id": "d4ALxqoq",
+        "file_name": "[One Pace][1082-1083] Egghead 15 [1080p][En Dub][B9B847EB].mp4",
+        "size": 577069966,
+        "url": "https://pixeldrain.net/api/file/d4ALxqoq?download"
+      },
+      {
+        "episode_num": 16,
+        "file_id": "VibNH5zZ",
+        "file_name": "[One Pace][1084-1085] Egghead 16 [1080p][En Dub][82D6288B].mp4",
+        "size": 475941944,
+        "url": "https://pixeldrain.net/api/file/VibNH5zZ?download"
+      },
+      {
+        "episode_num": 17,
+        "file_id": "CidfdncY",
+        "file_name": "[One Pace][1085-1086] Egghead 17 [1080p][En Dub][C75F5FFE].mp4",
+        "size": 334889075,
+        "url": "https://pixeldrain.net/api/file/CidfdncY?download"
+      },
+      {
+        "episode_num": 18,
+        "file_id": "tHsTGVSW",
+        "file_name": "[One Pace][1087-1088] Egghead 18 [1080p][En Dub][F3D60A0F].mp4",
+        "size": 1001103268,
+        "url": "https://pixeldrain.net/api/file/tHsTGVSW?download"
+      },
+      {
+        "episode_num": 19,
+        "file_id": "GMWotwFR",
+        "file_name": "[One Pace][1089-1090] Egghead 19 Extended [1080p][En Dub][EE78FA0B].mp4",
+        "size": 597617907,
+        "url": "https://pixeldrain.net/api/file/GMWotwFR?download"
+      },
+      {
+        "episode_num": 20,
+        "file_id": "ptvLmfWn",
+        "file_name": "[One Pace][1091-1092] Egghead 20 [1080p][En Dub][97DA0FA1].mp4",
+        "size": 644274426,
+        "url": "https://pixeldrain.net/api/file/ptvLmfWn?download"
+      }
+    ]
+  },
+  {
+    "slug": "one-piece-fan-letter",
+    "title": "One Piece Fan Letter",
+    "special": true,
+    "playlist_id": "FA11f6u2",
+    "resolution": 1080,
+    "sub": "en",
+    "dub": "ja",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "U6etaZLG",
+        "file_name": "[One Pace][One Piece Novel: Straw Hat Stories] One Piece Fan Letter 01 [1080p][En Sub][1C98BDCA].mp4",
+        "size": 345535232,
+        "url": "https://pixeldrain.net/api/file/U6etaZLG?download"
+      }
+    ]
+  },
+  {
+    "slug": "warship-island-01-april-fools-2025",
+    "title": "Warship Island 01 (April Fools 2025)",
+    "special": true,
+    "playlist_id": "Fo4iTm7F",
+    "resolution": 1080,
+    "sub": "en",
+    "dub": "ja",
+    "variant": "",
+    "episodes": [
+      {
+        "episode_num": 1,
+        "file_id": "meKfhAo5",
+        "file_name": "[One Pace] Warship Island 01 (April Fools 2025) 01 [1080p][En Sub][5FB58981].mp4",
+        "size": 264101145,
+        "url": "https://pixeldrain.net/api/file/meKfhAo5?download"
+      }
+    ]
+  }
+]
