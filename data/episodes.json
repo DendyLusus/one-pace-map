@@ -476,18 +476,18 @@
     "slug": "drum-island",
     "title": "Drum Island",
     "special": false,
-    "playlist_id": "uHcgEuGE",
-    "resolution": 720,
+    "playlist_id": "jg7Lja3K",
+    "resolution": 1080,
     "sub": "",
     "dub": "en",
     "variant": "",
     "episodes": [
       {
         "episode_num": 1,
-        "file_id": "XbLxzsXZ",
-        "file_name": "[One Pace][129-132] Drum Island 01 [720p][En Dub][6AF574BD].mp4",
-        "size": 321157679,
-        "url": "https://pixeldrain.net/api/file/XbLxzsXZ?download"
+        "file_id": "2LRt572F",
+        "file_name": "[One Pace][129-132] Drum Island 01 [1080p][En Dub][DC4E4D77].mp4",
+        "size": 388699145,
+        "url": "https://pixeldrain.net/api/file/2LRt572F?download"
       },
       {
         "episode_num": 2,
@@ -771,11 +771,11 @@
     "slug": "skypiea",
     "title": "Skypiea",
     "special": false,
-    "playlist_id": "27rF4SrD",
+    "playlist_id": "TVGUu2hh",
     "resolution": 1080,
     "sub": "",
     "dub": "en",
-    "variant": "alternate",
+    "variant": "",
     "episodes": [
       {
         "episode_num": 1,
@@ -946,11 +946,11 @@
         "url": "https://pixeldrain.net/api/file/neC2WigV?download"
       },
       {
-        "episode_num": 0,
-        "file_id": "5esG8RRy",
-        "file_name": "[One Pace][302-303] Skypiea 25 Alternate (G-8) [1080p][En Dub][7A034B4A].mp4",
-        "size": 312126205,
-        "url": "https://pixeldrain.net/api/file/5esG8RRy?download"
+        "episode_num": 25,
+        "file_id": "vwVzLpJe",
+        "file_name": "[One Pace][302-303] Skypiea 25 [1080p][En Dub][0EAE6947].mp4",
+        "size": 268322776,
+        "url": "https://pixeldrain.net/api/file/vwVzLpJe?download"
       }
     ]
   },
