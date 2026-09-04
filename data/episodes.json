@@ -1358,18 +1358,18 @@
     "slug": "post-enies-lobby",
     "title": "Post-Enies Lobby",
     "special": false,
-    "playlist_id": "upyN5vVk",
-    "resolution": 720,
-    "sub": "en",
-    "dub": "ja",
+    "playlist_id": "FfRgXmy2",
+    "resolution": 1080,
+    "sub": "",
+    "dub": "en",
     "variant": "",
     "episodes": [
       {
         "episode_num": 1,
-        "file_id": "KhMvJEtr",
-        "file_name": "[One Pace][431-432] Post-Enies Lobby 01 [720p][En Sub][56767F63].mp4",
-        "size": 386798973,
-        "url": "https://pixeldrain.net/api/file/KhMvJEtr?download"
+        "file_id": "HWgXs8pM",
+        "file_name": "[One Pace][431-432] Post-Enies Lobby 01 [1080p][En Dub][45CB9E6E].mp4",
+        "size": 426782354,
+        "url": "https://pixeldrain.net/api/file/HWgXs8pM?download"
       },
       {
         "episode_num": 2,
@@ -2040,18 +2040,18 @@
     "slug": "fishman-island",
     "title": "Fishman Island",
     "special": false,
-    "playlist_id": "o6ZzNwzp",
-    "resolution": 720,
-    "sub": "en",
-    "dub": "ja",
+    "playlist_id": "5Z489ko1",
+    "resolution": 1080,
+    "sub": "",
+    "dub": "en",
     "variant": "",
     "episodes": [
       {
         "episode_num": 1,
-        "file_id": "hiGUPaqR",
-        "file_name": "[One Pace][603-604] Fishman Island 01 [720p][En Sub][B2AB2AD3].mp4",
-        "size": 228081003,
-        "url": "https://pixeldrain.net/api/file/hiGUPaqR?download"
+        "file_id": "dr8q6iT7",
+        "file_name": "[One Pace][603-604] Fishman Island 01 [1080p][En Dub][C181D18E].mp4",
+        "size": 479573409,
+        "url": "https://pixeldrain.net/api/file/dr8q6iT7?download"
       },
       {
         "episode_num": 2,
