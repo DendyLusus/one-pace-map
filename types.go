@@ -1,23 +1,48 @@
 package main
 
+import "encoding/json"
+
 // Arc represents a One Pace story arc scraped from the watch page.
 type Arc struct {
 	Slug        string      `json:"slug"`
 	Title       string      `json:"title"`
 	Description string      `json:"description"`
 	Special     bool        `json:"special"`
-	Chapters    string      `json:"chapters"`
-	Episodes    string      `json:"episodes"`
+	Chapters    Span        `json:"chapters"`
+	Episodes    Span        `json:"episodes"`
 	PlayGroups  []PlayGroup `json:"playlistGroups"`
+}
+
+// Span is a set of chapter or episode ranges covered by an arc.
+type Span struct {
+	Terms        []SpanTerm `json:"terms"`
+	CoverStories bool       `json:"coverStories"`
+}
+
+// UnmarshalJSON tolerates the empty string left behind when the page sends
+// "$undefined" in place of a span object.
+func (s *Span) UnmarshalJSON(b []byte) error {
+	if len(b) > 0 && b[0] == '"' {
+		*s = Span{}
+		return nil
+	}
+	type plain Span
+	return json.Unmarshal(b, (*plain)(s))
+}
+
+// SpanTerm is either a numeric range (From/To) or free text (e.g. "Episode of East Blue").
+type SpanTerm struct {
+	From int    `json:"from"`
+	To   int    `json:"to"`
+	Text string `json:"text"`
 }
 
 // PlayGroup is a set of resolution-keyed playlists sharing the same language/variant.
 type PlayGroup struct {
-	Sub          string     `json:"sub"`
-	Dub          string     `json:"dub"`
-	Variant      string     `json:"variant"`
-	VariantTitle string     `json:"variantTitle"`
-	Playlists    []Playlist `json:"playlists"`
+	Sub       string     `json:"sub"`
+	Dub       string     `json:"dub"`
+	Variant   string     `json:"variant"`
+	Playlists []Playlist `json:"items"`
 }
 
 // Playlist maps a resolution to a Pixeldrain list ID.

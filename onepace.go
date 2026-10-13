@@ -90,20 +90,25 @@ func scrapeArcs() ([]Arc, error) {
 func extractArcs(html string) ([]Arc, error) {
 	matches := pushRe.FindAllStringSubmatch(html, -1)
 
+	var lastErr error
 	for _, m := range matches {
 		payload := unescapeRSC(m[1])
 		arcs, err := findArcArray(payload)
 		if err == nil && len(arcs) > 0 {
 			return arcs, nil
 		}
+		lastErr = err
 	}
 
 	arcs, err := findArcArray(html)
 	if err == nil && len(arcs) > 0 {
 		return arcs, nil
 	}
+	if lastErr == nil {
+		lastErr = err
+	}
 
-	return nil, fmt.Errorf("could not find arc data in page (found %d RSC chunks)", len(matches))
+	return nil, fmt.Errorf("could not find arc data in page (found %d RSC chunks): %w", len(matches), lastErr)
 }
 
 func unescapeRSC(s string) string {
