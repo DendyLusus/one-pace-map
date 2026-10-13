@@ -146,7 +146,7 @@
       {
         "episode_num": 1,
         "file_id": "9oCeFp7K",
-        "file_name": "[One Pace][42,22] Gaimon 01 [1080p][En Dub][BB0BBC61].mp4",
+        "file_name": "[One Pace][42, 22] Gaimon 01 [1080p][En Dub][BB0BBC61].mp4",
         "size": 322480574,
         "url": "https://pixeldrain.net/api/file/9oCeFp7K?download"
       }
@@ -533,10 +533,10 @@
       },
       {
         "episode_num": 8,
-        "file_id": "haTKA7CG",
-        "file_name": "[One Pace][153-155] Drum Island 08 [1080p][En Dub][5CDB3C57].mp4",
-        "size": 524367438,
-        "url": "https://pixeldrain.net/api/file/haTKA7CG?download"
+        "file_id": "6sUUcsGm",
+        "file_name": "[One Pace][153-155] Drum Island 08 [1080p][En Dub][3D45FF9A].mp4",
+        "size": 524382166,
+        "url": "https://pixeldrain.net/api/file/6sUUcsGm?download"
       }
     ]
   },
@@ -1373,29 +1373,36 @@
       },
       {
         "episode_num": 2,
-        "file_id": "FNFADi5W",
-        "file_name": "[One Pace][433-435] Post-Enies Lobby 02 [720p][En Sub][2AF1AF9C].mp4",
-        "size": 477167162,
-        "url": "https://pixeldrain.net/api/file/FNFADi5W?download"
+        "file_id": "oW8LmvNJ",
+        "file_name": "[One Pace][433-434] Post-Enies Lobby 02 [1080p][En Dub][70452A92].mp4",
+        "size": 323880173,
+        "url": "https://pixeldrain.net/api/file/oW8LmvNJ?download"
       },
       {
         "episode_num": 3,
+        "file_id": "LUuA6UcV",
+        "file_name": "[One Pace][435] Post-Enies Lobby 03 [1080p][En Dub][F8B0B531].mp4",
+        "size": 212208262,
+        "url": "https://pixeldrain.net/api/file/LUuA6UcV?download"
+      },
+      {
+        "episode_num": 4,
         "file_id": "VxaY8ugA",
-        "file_name": "[One Pace][436-437] Post-Enies Lobby 03 [720p][En Sub][E66DEB11].mp4",
+        "file_name": "[One Pace][436-437] Post-Enies Lobby 04 [720p][En Sub][E66DEB11].mp4",
         "size": 301246421,
         "url": "https://pixeldrain.net/api/file/VxaY8ugA?download"
       },
       {
-        "episode_num": 4,
+        "episode_num": 5,
         "file_id": "1R2G8uPe",
-        "file_name": "[One Pace][438-439] Post-Enies Lobby 04 [720p][En Sub][65E51572].mp4",
+        "file_name": "[One Pace][438-439] Post-Enies Lobby 05 [720p][En Sub][65E51572].mp4",
         "size": 342785375,
         "url": "https://pixeldrain.net/api/file/1R2G8uPe?download"
       },
       {
-        "episode_num": 5,
+        "episode_num": 6,
         "file_id": "bCAoTUxe",
-        "file_name": "[One Pace][440-441] Post-Enies Lobby 05 [720p][En Sub][BC2451B1].mp4",
+        "file_name": "[One Pace][440-441] Post-Enies Lobby 06 [720p][En Sub][BC2451B1].mp4",
         "size": 237944612,
         "url": "https://pixeldrain.net/api/file/bCAoTUxe?download"
       }
@@ -2055,10 +2062,10 @@
       },
       {
         "episode_num": 2,
-        "file_id": "i82FhpQd",
-        "file_name": "[One Pace][605-606] Fishman Island 02 [720p][En Sub][A62CA6EC].mp4",
-        "size": 210904137,
-        "url": "https://pixeldrain.net/api/file/i82FhpQd?download"
+        "file_id": "9hay35NS",
+        "file_name": "[One Pace][605-606] Fishman Island 02 [1080p][En Dub][11834B7C].mp4",
+        "size": 478858842,
+        "url": "https://pixeldrain.net/api/file/9hay35NS?download"
       },
       {
         "episode_num": 3,
@@ -3566,6 +3573,13 @@
         "file_name": "[One Pace][1011-1012] Wano 61 [1080p][En Dub][20568634].mp4",
         "size": 629840460,
         "url": "https://pixeldrain.net/api/file/xPKYVsvY?download"
+      },
+      {
+        "episode_num": 62,
+        "file_id": "V2x8N1h5",
+        "file_name": "[One Pace][1012-1013] Wano 62 Extended [1080p][En Dub][3C03E4AF].mp4",
+        "size": 782879448,
+        "url": "https://pixeldrain.net/api/file/V2x8N1h5?download"
       }
     ]
   },
@@ -3725,6 +3739,13 @@
         "file_name": "[One Pace][1093-1094] Egghead 21 Extended [1080p][En Dub][7C6F6FA0].mp4",
         "size": 957918263,
         "url": "https://pixeldrain.net/api/file/8Ro2A3z8?download"
+      },
+      {
+        "episode_num": 22,
+        "file_id": "4ZrCZ3ZH",
+        "file_name": "[One Pace][1095-1096] Egghead 22 [1080p][En Dub][9EB6C8B9].mp4",
+        "size": 742624678,
+        "url": "https://pixeldrain.net/api/file/4ZrCZ3ZH?download"
       }
     ]
   },
