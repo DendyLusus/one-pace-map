@@ -224,11 +224,11 @@
     "slug": "arlong-park",
     "title": "Arlong Park",
     "special": false,
-    "playlist_id": "chJ28fH8",
+    "playlist_id": "7zXoKGrW",
     "resolution": 1080,
     "sub": "en",
     "dub": "ja",
-    "variant": "extended",
+    "variant": "",
     "episodes": [
       {
         "episode_num": 1,
@@ -259,11 +259,11 @@
         "url": "https://pixeldrain.net/api/file/HoY5u9ix?download"
       },
       {
-        "episode_num": 0,
-        "file_id": "69HKZD6C",
-        "file_name": "[One Pace][79-81] Arlong Park 05 - Extended Cut [1080p][En Sub][66C53A18].mp4",
-        "size": 434965564,
-        "url": "https://pixeldrain.net/api/file/69HKZD6C?download"
+        "episode_num": 5,
+        "file_id": "WjhzqRU9",
+        "file_name": "[One Pace][79-81] Arlong Park 05 [1080p][En Sub][2A878B0A].mp4",
+        "size": 424330812,
+        "url": "https://pixeldrain.net/api/file/WjhzqRU9?download"
       },
       {
         "episode_num": 6,
@@ -294,11 +294,11 @@
         "url": "https://pixeldrain.net/api/file/e7QjUTMj?download"
       },
       {
-        "episode_num": 0,
-        "file_id": "Ba3MQUUa",
-        "file_name": "[One Pace][94-95] Arlong Park 10 - Extended Cut [1080p][En Sub][86681E30].mp4",
-        "size": 337108401,
-        "url": "https://pixeldrain.net/api/file/Ba3MQUUa?download"
+        "episode_num": 10,
+        "file_id": "DG3sjHsw",
+        "file_name": "[One Pace][94-95] Arlong Park 10 [1080p][En Sub][E7914A4B].mp4",
+        "size": 307018383,
+        "url": "https://pixeldrain.net/api/file/DG3sjHsw?download"
       }
     ]
   },
@@ -325,25 +325,18 @@
     "slug": "loguetown",
     "title": "Loguetown",
     "special": false,
-    "playlist_id": "LjpLddkr",
+    "playlist_id": "x7wQYoiD",
     "resolution": 1080,
     "sub": "en",
     "dub": "ja",
-    "variant": "extended",
+    "variant": "",
     "episodes": [
       {
-        "episode_num": 0,
-        "file_id": "JzcuLddj",
-        "file_name": "[One Pace][96-97] Loguetown 01 - Extended Cut [1080p][En Sub][D83CB40C].mp4",
-        "size": 533133951,
-        "url": "https://pixeldrain.net/api/file/JzcuLddj?download"
-      },
-      {
-        "episode_num": 0,
-        "file_id": "L9pnWqhe",
-        "file_name": "[One Pace][97.5] Loguetown 01.5 [1080p][En Sub][041A43AE].mp4",
-        "size": 287195364,
-        "url": "https://pixeldrain.net/api/file/L9pnWqhe?download"
+        "episode_num": 1,
+        "file_id": "N8wuufSw",
+        "file_name": "[One Pace][96-97] Loguetown 01 [1080p][En Sub][267B8E83].mp4",
+        "size": 399899224,
+        "url": "https://pixeldrain.net/api/file/N8wuufSw?download"
       },
       {
         "episode_num": 2,
@@ -365,11 +358,11 @@
     "slug": "reverse-mountain",
     "title": "Reverse Mountain",
     "special": false,
-    "playlist_id": "ZFrppPoX",
+    "playlist_id": "Fa5Ro9Mh",
     "resolution": 1080,
     "sub": "en",
     "dub": "ja",
-    "variant": "extended",
+    "variant": "",
     "episodes": [
       {
         "episode_num": 1,
@@ -379,11 +372,11 @@
         "url": "https://pixeldrain.net/api/file/JJeEDVAW?download"
       },
       {
-        "episode_num": 0,
-        "file_id": "E3AZwoHi",
-        "file_name": "[One Pace][103-105] Reverse Mountain 02 - Extended Cut [1080p][En Sub][6253F9A7].mp4",
-        "size": 501884149,
-        "url": "https://pixeldrain.net/api/file/E3AZwoHi?download"
+        "episode_num": 2,
+        "file_id": "pnJYphK7",
+        "file_name": "[One Pace][103-105] Reverse Mountain 02 [1080p][En Sub][BFAA8779].mp4",
+        "size": 495185867,
+        "url": "https://pixeldrain.net/api/file/pnJYphK7?download"
       }
     ]
   },
@@ -559,17 +552,17 @@
     "episodes": [
       {
         "episode_num": 1,
-        "file_id": "KbNfBJX9",
-        "file_name": "[One Pace][155-157] Alabasta 01 [720p][En Sub][FB1E687A].mp4",
-        "size": 160265625,
-        "url": "https://pixeldrain.net/api/file/KbNfBJX9?download"
+        "file_id": "3v5NQGby",
+        "file_name": "[One Pace][155-157] Alabasta 01 [1080p][En Sub][22DCED9F].mp4",
+        "size": 374728638,
+        "url": "https://pixeldrain.net/api/file/3v5NQGby?download"
       },
       {
         "episode_num": 2,
-        "file_id": "WJstqfSG",
-        "file_name": "[One Pace][157-159] Alabasta 02 [720p][En Sub][DDEAD466].mp4",
-        "size": 205619325,
-        "url": "https://pixeldrain.net/api/file/WJstqfSG?download"
+        "file_id": "CkQKw3on",
+        "file_name": "[One Pace][157-159] Alabasta 02 [1080p][En Sub][6FF37434].mp4",
+        "size": 392913086,
+        "url": "https://pixeldrain.net/api/file/CkQKw3on?download"
       },
       {
         "episode_num": 3,
@@ -3148,11 +3141,11 @@
     "slug": "wano",
     "title": "Wano",
     "special": false,
-    "playlist_id": "pFSu2BLb",
+    "playlist_id": "iRATbpNF",
     "resolution": 1080,
     "sub": "en",
     "dub": "ja",
-    "variant": "extended",
+    "variant": "",
     "episodes": [
       {
         "episode_num": 1,
@@ -3162,11 +3155,11 @@
         "url": "https://pixeldrain.net/api/file/Mvec3p13?download"
       },
       {
-        "episode_num": 0,
-        "file_id": "nJiySrk1",
-        "file_name": "[One Pace][909-911] Wano 02 - Extended Cut [1080p][En Sub][43CE89B2].mp4",
-        "size": 677048274,
-        "url": "https://pixeldrain.net/api/file/nJiySrk1?download"
+        "episode_num": 2,
+        "file_id": "pq8LUcY9",
+        "file_name": "[One Pace][909-911] Wano 02 [1080p][En Sub][46D49D39].mp4",
+        "size": 598537456,
+        "url": "https://pixeldrain.net/api/file/pq8LUcY9?download"
       },
       {
         "episode_num": 3,
@@ -3491,11 +3484,11 @@
         "url": "https://pixeldrain.net/api/file/wz4WfRN9?download"
       },
       {
-        "episode_num": 0,
-        "file_id": "LqfVn589",
-        "file_name": "[One Pace][988-989] Wano 49 - Extended Cut [1080p][En Sub][F83677AC].mp4",
-        "size": 828235976,
-        "url": "https://pixeldrain.net/api/file/LqfVn589?download"
+        "episode_num": 49,
+        "file_id": "SqNnsKb5",
+        "file_name": "[One Pace][988-989] Wano 49 [1080p][En Sub][60B0C573].mp4",
+        "size": 766570886,
+        "url": "https://pixeldrain.net/api/file/SqNnsKb5?download"
       },
       {
         "episode_num": 50,
@@ -3533,11 +3526,11 @@
         "url": "https://pixeldrain.net/api/file/AuyH29QJ?download"
       },
       {
-        "episode_num": 0,
-        "file_id": "Ta6xqtts",
-        "file_name": "[One Pace][1000] Wano 55 - Extended Cut [1080p][En Sub][0E637F85].mp4",
-        "size": 385289562,
-        "url": "https://pixeldrain.net/api/file/Ta6xqtts?download"
+        "episode_num": 55,
+        "file_id": "GiseLGNb",
+        "file_name": "[One Pace][1000] Wano 55 [1080p][En Sub][8A0A23A2].mp4",
+        "size": 248894082,
+        "url": "https://pixeldrain.net/api/file/GiseLGNb?download"
       },
       {
         "episode_num": 56,
@@ -3582,11 +3575,11 @@
         "url": "https://pixeldrain.net/api/file/9Yy41tkc?download"
       },
       {
-        "episode_num": 0,
-        "file_id": "FCAutEn1",
-        "file_name": "[One Pace][1012-1013] Wano 62 - Extended Cut [1080p][En Sub][539916AF].mp4",
-        "size": 781457647,
-        "url": "https://pixeldrain.net/api/file/FCAutEn1?download"
+        "episode_num": 62,
+        "file_id": "pqgPDFvP",
+        "file_name": "[One Pace][1012-1013] Wano 62 [1080p][En Sub][19472662].mp4",
+        "size": 583530695,
+        "url": "https://pixeldrain.net/api/file/pqgPDFvP?download"
       }
     ]
   },
@@ -3594,11 +3587,11 @@
     "slug": "egghead",
     "title": "Egghead",
     "special": false,
-    "playlist_id": "87XoYXT9",
+    "playlist_id": "ddzH3mPn",
     "resolution": 1080,
     "sub": "en",
     "dub": "ja",
-    "variant": "extended",
+    "variant": "",
     "episodes": [
       {
         "episode_num": 1,
@@ -3650,11 +3643,11 @@
         "url": "https://pixeldrain.net/api/file/3oSoaL9R?download"
       },
       {
-        "episode_num": 0,
-        "file_id": "eQV7ec74",
-        "file_name": "[One Pace][1069-1070] Egghead 08 - Extended Cut [1080p][En Sub][224EEF70].mp4",
-        "size": 901173865,
-        "url": "https://pixeldrain.net/api/file/eQV7ec74?download"
+        "episode_num": 8,
+        "file_id": "WH9ZXvC9",
+        "file_name": "[One Pace][1069-1070] Egghead 08 [1080p][En Sub][B21E3562].mp4",
+        "size": 794806719,
+        "url": "https://pixeldrain.net/api/file/WH9ZXvC9?download"
       },
       {
         "episode_num": 9,
@@ -3685,18 +3678,18 @@
         "url": "https://pixeldrain.net/api/file/oBbHx2Fp?download"
       },
       {
-        "episode_num": 0,
-        "file_id": "K8nqqG8C",
-        "file_name": "[One Pace][1079] Egghead 13 - Extended Cut [1080p][En Sub][8B66B74A].mp4",
-        "size": 432018539,
-        "url": "https://pixeldrain.net/api/file/K8nqqG8C?download"
+        "episode_num": 13,
+        "file_id": "LRQVhADz",
+        "file_name": "[One Pace][1079] Egghead 13 [1080p][En Sub][8212380C].mp4",
+        "size": 411592997,
+        "url": "https://pixeldrain.net/api/file/LRQVhADz?download"
       },
       {
-        "episode_num": 0,
-        "file_id": "Z9pVUtUa",
-        "file_name": "[One Pace][1080-1081] Egghead 14 - Extended Cut [1080p][En Sub][286CC00B].mp4",
-        "size": 883243835,
-        "url": "https://pixeldrain.net/api/file/Z9pVUtUa?download"
+        "episode_num": 14,
+        "file_id": "qiM3wUTZ",
+        "file_name": "[One Pace][1080-1081] Egghead 14 [1080p][En Sub][A9C34E2F].mp4",
+        "size": 831134554,
+        "url": "https://pixeldrain.net/api/file/qiM3wUTZ?download"
       },
       {
         "episode_num": 15,
@@ -3727,11 +3720,11 @@
         "url": "https://pixeldrain.net/api/file/3jfC7E6j?download"
       },
       {
-        "episode_num": 0,
-        "file_id": "ztSKFkpP",
-        "file_name": "[One Pace][1089-1090] Egghead 19 - Extended Cut [1080p][En Sub][8CBF6708].mp4",
-        "size": 604902074,
-        "url": "https://pixeldrain.net/api/file/ztSKFkpP?download"
+        "episode_num": 19,
+        "file_id": "jSJXjEfs",
+        "file_name": "[One Pace][1089-1090] Egghead 19 [1080p][En Sub][70FE18D4].mp4",
+        "size": 585178619,
+        "url": "https://pixeldrain.net/api/file/jSJXjEfs?download"
       },
       {
         "episode_num": 20,
@@ -3741,11 +3734,11 @@
         "url": "https://pixeldrain.net/api/file/fUFe22VP?download"
       },
       {
-        "episode_num": 0,
-        "file_id": "LAZukfQm",
-        "file_name": "[One Pace][1093-1094] Egghead 21 - Extended Cut [1080p][En Sub][E731DCBF].mp4",
-        "size": 958541386,
-        "url": "https://pixeldrain.net/api/file/LAZukfQm?download"
+        "episode_num": 21,
+        "file_id": "qbU1fFCv",
+        "file_name": "[One Pace][1093-1094] Egghead 21 [1080p][En Sub][4C742A69].mp4",
+        "size": 775439545,
+        "url": "https://pixeldrain.net/api/file/qbU1fFCv?download"
       },
       {
         "episode_num": 22,
