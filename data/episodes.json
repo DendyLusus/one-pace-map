@@ -2075,9 +2075,9 @@
     "slug": "fishman-island",
     "title": "Fishman Island",
     "special": false,
-    "playlist_id": "5Z489ko1",
+    "playlist_id": "UVvxTMnq",
     "resolution": 1080,
-    "sub": "",
+    "sub": "en",
     "dub": "en",
     "variant": "",
     "episodes": [
@@ -2097,10 +2097,10 @@
       },
       {
         "episode_num": 3,
-        "file_id": "8QZs27az",
-        "file_name": "[One Pace][607-608] Fishman Island 03 [720p][En Sub][30A587BD].mp4",
-        "size": 208952247,
-        "url": "https://pixeldrain.net/api/file/8QZs27az?download"
+        "file_id": "VdhpB3ua",
+        "file_name": "[One Pace][607-608] Fishman Island 03 [1080p][En Dubtitles][65D62947].mp4",
+        "size": 494013336,
+        "url": "https://pixeldrain.net/api/file/VdhpB3ua?download"
       },
       {
         "episode_num": 4,
