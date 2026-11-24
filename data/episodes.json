@@ -3176,9 +3176,9 @@
     "slug": "wano",
     "title": "Wano",
     "special": false,
-    "playlist_id": "NADiYYhV",
+    "playlist_id": "n8SFU5kF",
     "resolution": 1080,
-    "sub": "",
+    "sub": "en",
     "dub": "en",
     "variant": "",
     "episodes": [
@@ -3615,6 +3615,13 @@
         "file_name": "[One Pace][1012-1013] Wano 62 [1080p][En Dub][252C6BC5].mp4",
         "size": 583280092,
         "url": "https://pixeldrain.net/api/file/TUDvhULR?download"
+      },
+      {
+        "episode_num": 63,
+        "file_id": "Q3TUZYzj",
+        "file_name": "[One Pace][1014-1015] Wano 63 [1080p][En Dubtitles][BB0C84F3].mp4",
+        "size": 696507768,
+        "url": "https://pixeldrain.net/api/file/Q3TUZYzj?download"
       },
       {
         "episode_num": 0,
